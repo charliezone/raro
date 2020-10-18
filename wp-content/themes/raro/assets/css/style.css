@@ -102,21 +102,21 @@ body{
 
 ::-webkit-scrollbar-thumb {
   cursor: pointer;
-  background: #c5a47e;
+  background: #b60101;
 }
 
 ::selection{
-  background-color:#c5a47e;
+  background-color:#b60101;
   color:#fff;
 }
 
 -webkit-::selection{
-    background-color:#c5a47e;
+    background-color:#b60101;
     color:#fff;
 }
 
 ::-moz-selection{
-    background-color:#c5a47e;
+    background-color:#b60101;
     color:#fff;
 }
 

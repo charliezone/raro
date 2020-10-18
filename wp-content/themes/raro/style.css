@@ -7,3 +7,42 @@
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: raro
  */
+
+ /* Home */
+
+ /* Secundary color Text */
+
+ .header-home .slide-number .current-number,
+ .section-title .text-primary,
+ .experience-info .text-primary,
+ .col-address a,
+ .navbar-desctop.affix .navbar-desctop-menu li > a:hover,
+ .navbar-nav-mobile li a:hover, .navbar-nav-mobile li .active > a{
+     color: #b60101;
+ }
+
+ /* Secundary color background */
+
+ .rev_slider .btn.cta,
+ .project-zoom,
+ .btn-shadow-2,
+ .navbar-mobile.affix .navbar-toggle .icon-bar,
+ .sk-folding-cube .sk-cube:before{
+     background-color: #b60101;
+ }
+
+ /* Logo */
+
+ .navbar-desctop .brand img{
+    width: 50%
+ }
+
+ @media screen and (max-width: 980px){
+    .header-home .brand img{
+        width: 80%;
+    }
+
+    .navbar-mobile .brand img{
+        width: 40%;
+    }
+ }

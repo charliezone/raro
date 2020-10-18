@@ -40,9 +40,9 @@
     <header id="top" class="header-home">
       <div class="brand-panel">
         <a href="#top" class="brand js-target-scroll">
-          go<span class="text-primary">.</span>arch
+          <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="RaRo Logo">
         </a>
-        <div class="brand-name">Go.arch</div>
+        <div class="brand-name">RaRo</div>
         <div class="slide-number">
           <span class="current-number text-primary">0<span class="count">1</span></span>
           <sup><span class="delimiter">/</span> 0<span class="total-count"></span></sup>
@@ -52,14 +52,14 @@
       <div class="vertical-panel"></div>
       <div class="vertical-panel-content">
         <div class="vertical-panel-info">
-            <div class="vertical-panel-title">Architecture buro</div>
+            <div class="vertical-panel-title">Raro agency</div>
             <div class="line"></div>
          </div>
         <ul class="social-list">
-          <li><a href="" class="fa fa-instagram"></a></li>
-          <li><a href="" class="fa fa-twitter"></a></li>
-          <li><a href="" class="fa fa-behance"></a></li>
-          <li><a href="" class="fa fa-facebook"></a></li>
+          <li><a href="https://www.instagram/rarocompany" class="fa fa-instagram"></a></li>
+          <li><a href="https://www.twitter.com/RaRoCompany" class="fa fa-twitter"></a></li>
+          <li><a href="https://www.linkedin.com/raro-company" class="fa fa-linkedin"></a></li>
+          <li><a href="https://www.facebook.com/RaRoCompany" class="fa fa-facebook"></a></li>
          </ul>  
       </div> 
 
@@ -68,41 +68,20 @@
       <nav class="navbar-desctop visible-md visible-lg">
         <div class="container">
           <a href="#top" class="brand js-target-scroll">
-            go<span class="text-primary">.</span>arch
+            <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="RaRo Logo">
           </a>
           <ul class="navbar-desctop-menu">
-            <li class="active">
-              <a href="index.html">Home</a>
-              <ul>
-                <li><a href="../light/index.html">Home - Light</a></li>
-                <li class="active">
-                  <a href="index.html">Home - Dark</a>
-                </li>
-              </ul>
+            <li>
+                <a href="#about" class="js-target-scroll">About us</a>
             </li>
             <li>
-              <a href="about.html">About us</a>
+              <a href="#services" class="js-target-scroll">Our Team</a>
             </li>
             <li>
-              <a href="projects.html">Projects</a>
-              <ul>
-                <li><a href="projects.html">Projects - List</a></li>
-                <li>
-                  <a href="project.html">Project - details</a>
-                </li>
-              </ul>
-            </li>  
-            <li>
-              <a href="blog.html">Blog</a>
-              <ul>
-                <li><a href="blog.html">Blog - List</a></li>
-                <li>
-                  <a href="blog-details.html">Blog - Post</a>
-                </li>
-              </ul>
+              <a href="#services" class="js-target-scroll">Services</a>
             </li>
             <li>
-              <a href="contacts.html">Contacts</a>
+              <a href="#contact" class="js-target-scroll">Contact</a>
             </li>
           </ul>
         </div>
@@ -112,7 +91,7 @@
 
       <nav class="navbar-mobile">
         <a href="#top" class="brand js-target-scroll">
-          go<span class="text-primary">.</span>arch
+            <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="RaRo Logo">
         </a>
 
         <!-- Navbar Collapse -->
@@ -126,38 +105,17 @@
 
         <div class="collapse navbar-collapse" id="navbar-mobile"> 
           <ul class="navbar-nav-mobile">
-            <li class="active">
-              <a href="#">Home <i class="fa fa-angle-down"></i></a>
-              <ul>
-                <li><a href="../light/index.html">Home - Light</a></li>
-                <li class="active">
-                  <a href="index.html">— Home - Dark</a>
-                </li>
-              </ul>
+            <li>
+                <a href="#about" class="js-target-scroll">About us</a>
             </li>
             <li>
-              <a href="about.html">About us</a>
+              <a href="#services" class="js-target-scroll">Our Team</a>
             </li>
             <li>
-              <a href="#">Projects <i class="fa fa-angle-down"></i></a>
-              <ul>
-                <li><a href="projects.html">Projects - List</a></li>
-                <li>
-                  <a href="project.html">Project - details</a>
-                </li>
-              </ul>
-            </li>  
-            <li>
-              <a href="#">Blog <i class="fa fa-angle-down"></i></a>
-              <ul>
-                <li><a href="blog.html">Blog - List</a></li>
-                <li>
-                  <a href="blog-details.html">Blog - Post</a>
-                </li>
-              </ul>
+              <a href="#services" class="js-target-scroll">Services</a>
             </li>
             <li>
-              <a href="contacts.html">Contacts</a>
+              <a href="#contact" class="js-target-scroll">Contact</a>
             </li>
           </ul>
         </div>
