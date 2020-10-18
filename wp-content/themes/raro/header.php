@@ -43,10 +43,12 @@
           <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="RaRo Logo">
         </a>
         <div class="brand-name">RaRo</div>
+        <?php if(is_page('home')): ?>
         <div class="slide-number">
           <span class="current-number text-primary">0<span class="count">1</span></span>
           <sup><span class="delimiter">/</span> 0<span class="total-count"></span></sup>
         </div>
+        <?php endif;?>
       </div>
       <div class="header-phone">+7 (212) 674-25-10</div>
       <div class="vertical-panel"></div>

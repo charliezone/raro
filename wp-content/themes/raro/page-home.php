@@ -50,8 +50,6 @@
                 <div class="slide-subtitle tp-caption tp-resizeme"
                 data-x="['right','right','right','right']" data-hoffset="['0']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['75','105']"
-                data-fontsize="['18', '26']"
-                data-lineheight="['18', '30']" 
                 data-whitespace="nowrap"
                 data-transform_idle="o:1;"
                 data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1200;e:Power1.easeInOut;" 
@@ -71,7 +69,6 @@
                 data-y="['middle','middle','middle','middle']" data-voffset="['195','215']"
                 data-width="none"
                 data-height="none"
-                data-fontsize="['18', '22']"
                 data-whitespace="nowrap"
                 data-transform_idle="o:1;"
                 data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;"
@@ -122,8 +119,6 @@
                 <div class="slide-subtitle tp-caption tp-resizeme"
                 data-x="['right','right','right','right']" data-hoffset="['0']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['75','105']"
-                data-fontsize="['18', '26']"
-                data-lineheight="['18', '30']"
                 data-whitespace="nowrap"
                 data-transform_idle="o:1;"
                 data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1200;e:Power1.easeInOut;" 
@@ -144,7 +139,6 @@
                 data-y="['middle','middle','middle','middle']" data-voffset="['195','215']"
                 data-width="none"
                 data-height="none"
-                data-fontsize="['18', '22']"
                 data-whitespace="nowrap"
                 data-transform_idle="o:1;"
                 data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;"
@@ -195,8 +189,6 @@
                 <div class="slide-subtitle tp-caption tp-resizeme"
                 data-x="['right','right','right','right']" data-hoffset="['0']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['75','105']"
-                data-fontsize="['18', '26']"
-                data-lineheight="['18', '30']" 
                 data-whitespace="nowrap"
                 data-transform_idle="o:1;"
                 data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1200;e:Power1.easeInOut;" 
@@ -216,7 +208,6 @@
                 data-y="['middle','middle','middle','middle']" data-voffset="['195','215']"
                 data-width="none"
                 data-height="none"
-                data-fontsize="['18', '22']"
                 data-whitespace="nowrap"
                 data-transform_idle="o:1;"
                 data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;"
@@ -288,7 +279,6 @@
                 data-y="['middle','middle','middle','middle']" data-voffset="['195','215']"
                 data-width="none"
                 data-height="none"
-                data-fontsize="['18', '22']"
                 data-whitespace="nowrap"
                 data-transform_idle="o:1;"
                 data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;"
@@ -555,7 +545,7 @@
         </div>
     </section>
 
-    <section class="our-team section">
+    <section class="our-team section" id="our-team">
         <div class="container">
             <header class="section-header">
                 <h2 class="section-title">Our <span class="text-primary">Team</span></h2>
@@ -609,6 +599,7 @@
                     </div>
                 </div>
                 <div class="row team-container">
+                    <div class="col-lg-3 visible-lg"></div>
                     <div class="col-lg-3">
                         <div class="member">
                             <div class="imagen-container">
