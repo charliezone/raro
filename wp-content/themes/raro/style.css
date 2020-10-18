@@ -17,8 +17,18 @@
  .experience-info .text-primary,
  .col-address a,
  .navbar-desctop.affix .navbar-desctop-menu li > a:hover,
+ .navbar-desctop-menu li a:hover,
  .navbar-nav-mobile li a:hover, .navbar-nav-mobile li .active > a{
      color: #b60101;
+ }
+
+ .header-phone a,
+ .header-phone a:hover{
+     color: #fff;
+ }
+
+ .header-phone a:nth-of-type(1){
+     margin-right: 15px;
  }
 
  /* Secundary color background */
@@ -32,6 +42,10 @@
  }
 
  /* Logo */
+ .brand-panel .brand img,
+ .footer .brand img{
+    width: 50%;
+ }
 
  .navbar-desctop .brand img{
     width: 50%
@@ -94,4 +108,33 @@
     font-size: 14px;
     font-weight: bold;
     font-family: 'Oswald';
+ }
+
+ /* No home header */
+
+ .header-inner .vertical-panel,
+ .header-inner .brand-name,
+ .header-inner .vertical-panel-content{
+     display: none;
+ }
+ 
+ .header-inner .brand-panel{
+     background-color: transparent;
+ }
+
+ /* No home Main */
+
+ .main-inner{
+    padding: 33.7vmin 0 1.7vmin;
+ }
+
+ /* Blog */
+
+ .blog-meta .author,
+ .blog-meta .time{
+    float: none;
+ }
+
+ .blog-details article.post{
+     padding: 0 15px;
  }

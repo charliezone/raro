@@ -37,7 +37,7 @@
 
     <!-- Header -->
 
-    <header id="top" class="header-home">
+    <header id="top" class="<?php echo (is_page('home')) ? 'header-home' : 'header-inner' ?>">
       <div class="brand-panel">
         <a href="#top" class="brand js-target-scroll">
           <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="RaRo Logo">
@@ -50,7 +50,7 @@
         </div>
         <?php endif;?>
       </div>
-      <div class="header-phone">+7 (212) 674-25-10</div>
+      <div class="header-phone"><a href="tel:72122878522">+7 &nbsp;(212) 287-85-22</a></div>
       <div class="vertical-panel"></div>
       <div class="vertical-panel-content">
         <div class="vertical-panel-info">
@@ -77,7 +77,7 @@
                 <a href="#about" class="js-target-scroll">About us</a>
             </li>
             <li>
-              <a href="#services" class="js-target-scroll">Our Team</a>
+              <a href="#our-team" class="js-target-scroll">Our Team</a>
             </li>
             <li>
               <a href="#services" class="js-target-scroll">Services</a>
@@ -111,7 +111,7 @@
                 <a href="#about" class="js-target-scroll">About us</a>
             </li>
             <li>
-              <a href="#services" class="js-target-scroll">Our Team</a>
+              <a href="#our-team" class="js-target-scroll">Our Team</a>
             </li>
             <li>
               <a href="#services" class="js-target-scroll">Services</a>
