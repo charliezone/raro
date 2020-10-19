@@ -42,12 +42,15 @@
           <article id="post-<?php the_ID(); ?>" <?php post_class('blog'); ?>>
             <div class="row">
               <div class="blog-thumbnail col-md-8">
+                <?php 
+                  $alt = get_post_meta(get_post_thumbnail_id(), '_wp_attachment_image_alt', true);
+                ?>
                 <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php the_post_thumbnail_url() ?>);"></div>
-                <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php the_post_thumbnail_url() ?>"></div>
+                <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="<?php echo $alt ?>" class="img-responsive" src="<?php the_post_thumbnail_url() ?>"></div>
               </div>
               <div class="blog-info col-md-4">
                 <h1 class="blog-title">
-                  <a href="<?php the_permalink() ?>"><h1><?php the_title() ?></h1></a>
+                  <a href="<?php the_permalink() ?>"><?php the_title() ?></a>
                 </h1>
                 <?php the_excerpt() ?>
                 <div class="blog-meta">

@@ -275,7 +275,7 @@
 
 
 
-	$('.js-projects-gallery').each(function(){
+	/*$('.js-projects-gallery').each(function(){
 		$(this).magnificPopup({
 			delegate: 'a',
 		    type: 'image',
@@ -294,7 +294,7 @@
 		    }
 
 		});
-	});
+	});*/
 
 
 

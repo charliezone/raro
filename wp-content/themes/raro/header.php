@@ -39,7 +39,7 @@
 
     <header id="top" class="<?php echo (is_page('home')) ? 'header-home' : 'header-inner' ?>">
       <div class="brand-panel">
-        <a href="#top" class="brand js-target-scroll">
+        <a href="<?php echo site_url(); ?>" class="brand js-target-scroll">
           <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="RaRo Logo">
         </a>
         <div class="brand-name">RaRo</div>
@@ -73,6 +73,7 @@
             <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="RaRo Logo">
           </a>
           <ul class="navbar-desctop-menu">
+            <?php if(is_page('home')): ?>
             <li>
                 <a href="#about" class="js-target-scroll">About us</a>
             </li>
@@ -82,6 +83,11 @@
             <li>
               <a href="#services" class="js-target-scroll">Services</a>
             </li>
+            <?php else: ?>
+            <li>
+              <a href="<?php echo site_url() ?>">Home</a>
+            </li>
+            <?php endif ?>
             <li>
               <a href="#contact" class="js-target-scroll">Contact</a>
             </li>
@@ -107,6 +113,7 @@
 
         <div class="collapse navbar-collapse" id="navbar-mobile"> 
           <ul class="navbar-nav-mobile">
+            <?php if(is_page('home')): ?>
             <li>
                 <a href="#about" class="js-target-scroll">About us</a>
             </li>
@@ -116,6 +123,11 @@
             <li>
               <a href="#services" class="js-target-scroll">Services</a>
             </li>
+            <?php else: ?>
+            <li>
+              <a href="<?php echo site_url() ?>">Home</a>
+            </li>
+            <?php endif ?>
             <li>
               <a href="#contact" class="js-target-scroll">Contact</a>
             </li>

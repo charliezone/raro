@@ -197,8 +197,8 @@
                 data-start="1500" 
                 data-splitin="none" 
                 data-splitout="none">Use your fear to push your business forward.<br />
-                Be know, be found and break the barriers.<br />
-                We’re here to back you up  
+                Be know. be found and break the barriers.<br />
+                We’re here to back you up.
                 </div>
 
                 <!-- Layer 3 -->
@@ -355,15 +355,15 @@
         <div class="section-content">
             <div class="projects-carousel js-projects-carousel js-projects-gallery">
             <div class="project project-light">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/1-480x880.jpg" title="project 1">
+                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/1-480x880.jpg" title="Music Production" target="music-production">
                 <figure>
                     <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/1-480x880.jpg">
                     <figcaption>
                     <h3 class="project-title">
-                        Residential care<br> project in Paris
+                        Music Production
                     </h3>
                     <h4 class="project-category">
-                        Architecture
+                        Music
                     </h4>
                     <div class="project-zoom"></div>
                     </figcaption>
@@ -371,15 +371,15 @@
                 </a>
             </div>
             <div class="project project-light">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/2-480x880.jpg" title="project 2">
+                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/2-480x880.jpg" title="Music Distribution" target="music-distribution">
                 <figure>
                     <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/2-480x880.jpg">
                     <figcaption>
                     <h3 class="project-title">
-                        Concert hall<br> in New york
+                        Music Distribution
                     </h3>
                     <h4 class="project-category">
-                        Architecture
+                        Music
                     </h4>
                     <div class="project-zoom"></div>
                     </figcaption>
@@ -387,15 +387,15 @@
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/3-480x880.jpg" title="project 3">
+                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/3-480x880.jpg" title="Talent Development" target="talent-development">
                 <figure>
                     <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/3-480x880.jpg">
                     <figcaption>
                     <h3 class="project-title">
-                        Modern hotel<br>in London
+                        Talent Development
                     </h3>
                     <h4 class="project-category">
-                        Architecture
+                        Music
                     </h4>
                     <div class="project-zoom"></div>
                     </figcaption>
@@ -403,15 +403,15 @@
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/4-480x880.jpg" title="project 4">
+                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/4-480x880.jpg" title="Music Marketing" target="music-marketing">
                 <figure>
                     <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/4-480x880.jpg">
                     <figcaption>
                     <h3 class="project-title">
-                        Modern hotel<br>in London
+                        Music Marketing
                     </h3>
                     <h4 class="project-category">
-                        Architecture
+                        Music
                     </h4>
                     <div class="project-zoom"></div>
                     </figcaption>
@@ -419,15 +419,15 @@
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/5-480x880.jpg" title="project 5">
+                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/5-480x880.jpg" title="Talent Management" target="talent-management">
                 <figure>
                     <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/5-480x880.jpg">
                     <figcaption>
                     <h3 class="project-title">
-                        Residential care<br> project in Paris
+                        Talent Management
                     </h3>
                     <h4 class="project-category">
-                        Architecture
+                        Music
                     </h4>
                     <div class="project-zoom"></div>
                     </figcaption>
@@ -435,15 +435,15 @@
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/6-480x880.jpg" title="project 6">
+                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/6-480x880.jpg" title="Business Development" target="business-development">
                 <figure>
                     <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/6-480x880.jpg">
                     <figcaption>
                     <h3 class="project-title">
-                        Residential care<br> project in Paris
+                        Business Development
                     </h3>
                     <h4 class="project-category">
-                        Architecture
+                        Business
                     </h4>
                     <div class="project-zoom"></div>
                     </figcaption>
@@ -451,15 +451,15 @@
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/7-480x880.jpg" title="project 7">
+                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/7-480x880.jpg" title="Business Restructure" target="business-restructure">
                 <figure>
                     <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/7-480x880.jpg">
                     <figcaption>
                     <h3 class="project-title">
-                        Residential care<br> project in Paris
+                        Business Restructure
                     </h3>
                     <h4 class="project-category">
-                        Architecture
+                        Business
                     </h4>
                     <div class="project-zoom"></div>
                     </figcaption>
@@ -467,15 +467,127 @@
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg" title="project 8">
+                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg" title="Business Marketing" target="business-marketing">
                 <figure>
                     <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg">
                     <figcaption>
                     <h3 class="project-title">
-                        Residential care<br> project in Paris
+                        Business Marketing
                     </h3>
                     <h4 class="project-category">
-                        Architecture
+                        Business
+                    </h4>
+                    <div class="project-zoom"></div>
+                    </figcaption>
+                </figure>
+                </a>
+            </div>
+            <div class="project">
+                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg" title="Graphic Design" target="graphic-design">
+                <figure>
+                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg">
+                    <figcaption>
+                    <h3 class="project-title">
+                        Graphic Design
+                    </h3>
+                    <h4 class="project-category">
+                        Business
+                    </h4>
+                    <div class="project-zoom"></div>
+                    </figcaption>
+                </figure>
+                </a>
+            </div>
+            <div class="project">
+                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg" title="Content Distribution" target="content-distribution">
+                <figure>
+                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg">
+                    <figcaption>
+                    <h3 class="project-title">
+                        Content Distribution
+                    </h3>
+                    <h4 class="project-category">
+                        Marketing
+                    </h4>
+                    <div class="project-zoom"></div>
+                    </figcaption>
+                </figure>
+                </a>
+            </div>
+            <div class="project">
+                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg" title="Release Strategy" target="release-strategy">
+                <figure>
+                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg">
+                    <figcaption>
+                    <h3 class="project-title">
+                        Release Strategy
+                    </h3>
+                    <h4 class="project-category">
+                        Marketing
+                    </h4>
+                    <div class="project-zoom"></div>
+                    </figcaption>
+                </figure>
+                </a>
+            </div>
+            <div class="project">
+                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg" title="Paid Campaigns" target="paid-campaigns">
+                <figure>
+                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg">
+                    <figcaption>
+                    <h3 class="project-title">
+                        Paid Campaigns
+                    </h3>
+                    <h4 class="project-category">
+                        Marketing
+                    </h4>
+                    <div class="project-zoom"></div>
+                    </figcaption>
+                </figure>
+                </a>
+            </div>
+            <div class="project">
+                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg" title="Branding" target="branding">
+                <figure>
+                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg">
+                    <figcaption>
+                    <h3 class="project-title">
+                        Branding
+                    </h3>
+                    <h4 class="project-category">
+                        Marketing
+                    </h4>
+                    <div class="project-zoom"></div>
+                    </figcaption>
+                </figure>
+                </a>
+            </div>
+            <div class="project">
+                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg" title="Social Media Management" target="social-media-management">
+                <figure>
+                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg">
+                    <figcaption>
+                    <h3 class="project-title">
+                        Social Media Management
+                    </h3>
+                    <h4 class="project-category">
+                        Marketing
+                    </h4>
+                    <div class="project-zoom"></div>
+                    </figcaption>
+                </figure>
+                </a>
+            </div>
+            <div class="project">
+                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg" title="Audiovisuals" target="audiovisuals">
+                <figure>
+                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg">
+                    <figcaption>
+                    <h3 class="project-title">
+                        Audiovisuals
+                    </h3>
+                    <h4 class="project-category">
+                        Creativity
                     </h4>
                     <div class="project-zoom"></div>
                     </figcaption>
@@ -499,7 +611,7 @@
 
     <!-- Clients  -->
 
-    <section class="clients section">
+    <section class="clients section" style="display: none;">
         <div class="container">
             <header class="section-header">
             <h2 class="section-title">Our <span class="text-primary">clients</span></h2>
@@ -559,7 +671,7 @@
                                 <img src="<?php echo get_template_directory_uri(); ?>/assets/img/team/herling.jpg" alt="Herling Founder & Ceo">
                             </div>
                             <div class="member-content">
-                                <h3 class="name">Herling Ana Rosell Chapelin</h3>
+                                <h3 class="name">Herling Ana Rosell Chapelín</h3>
                                 <small class="job">Founder & Ceo</small>
                             </div>
                         </div>
@@ -570,7 +682,7 @@
                                 <img src="<?php echo get_template_directory_uri(); ?>/assets/img/team/ariel.jpg" alt="Ariel Founder & Ceo">
                             </div>
                             <div class="member-content">
-                                <h3 class="name">Ariel Ragues</h3>
+                                <h3 class="name">Ariel Ragués</h3>
                                 <small class="job">Founder & Ceo</small>
                             </div>
                         </div>
@@ -581,7 +693,7 @@
                                 <img src="<?php echo get_template_directory_uri(); ?>/assets/img/team/eduardo.jpg" alt="Eduardo Marketing & Ceo">
                             </div>
                             <div class="member-content">
-                                <h3 class="name">Eduardo Gonzalez</h3>
+                                <h3 class="name">Eduardo González</h3>
                                 <small class="job">Marketing & Ceo</small>
                             </div>
                         </div>
@@ -606,7 +718,7 @@
                                 <img src="<?php echo get_template_directory_uri(); ?>/assets/img/team/joshua.jpg" alt="Joshua Social Media Manager">
                             </div>
                             <div class="member-content">
-                                <h3 class="name">Joshua Ragues</h3>
+                                <h3 class="name">Joshua Ragués</h3>
                                 <small class="job">Social Media Manager</small>
                             </div>
                         </div>
@@ -626,4 +738,254 @@
             </div>
         </div>
     </section>
+
+    <!-- Service Modal  -->
+    <div class="modal-container" id="music-production">
+        <article class="blog service-modal">
+            <div class="row">
+                <div class="blog-thumbnail col-md-8">
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                </div>
+                <div class="blog-info col-md-4">
+                    <h2 class="blog-title">Music Production</h2>
+                    <p>We oversee and manage the sound recording and production of our artists to ensure you present top quality material as well as audiovisuals.
+                    We cover instruments, beats, mixing and master, all handled with extreme care to satisfy your most demanding audience.</p>
+                </div>
+            </div>
+            <a href="#" class="close-btn">X</a>
+        </article>
+    </div>
+
+    <div class="modal-container" id="music-distribution">
+        <article class="blog service-modal">
+            <div class="row">
+                <div class="blog-thumbnail col-md-8">
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                </div>
+                <div class="blog-info col-md-4">
+                    <h2 class="blog-title">Music Distribution</h2>
+                    <p>It’s crucial to promoting music. Your music will be at the fingertip of your fans.  
+                    As easy as it sounds, it’s not. Among all the details to address is collecting all your royalties, even those you didn’t even know about.</p>
+                </div>
+            </div>
+            <a href="#" class="close-btn">X</a>
+        </article>
+    </div>
+
+    <div class="modal-container" id="talent-development">
+        <article class="blog service-modal">
+            <div class="row">
+                <div class="blog-thumbnail col-md-8">
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                </div>
+                <div class="blog-info col-md-4">
+                    <h2 class="blog-title">Talent Development</h2>
+                    <p>Is the Carterpillar to butterfly transition.  You will have personalized support to build a professional career in the entertainment industry.  You bring in your talent and dreams, we do the rest.</p>
+                </div>
+            </div>
+            <a href="#" class="close-btn">X</a>
+        </article>
+    </div>
+
+    <div class="modal-container" id="music-marketing">
+        <article class="blog service-modal">
+            <div class="row">
+                <div class="blog-thumbnail col-md-8">
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                </div>
+                <div class="blog-info col-md-4">
+                    <h2 class="blog-title">Music Marketing</h2>
+                    <p>Marketing and promotion are the processes of letting your audience know you’re here to stay and make history together. It’s an art that requires numerous hours of effort and planification. We’re great at it. </p>
+                </div>
+            </div>
+            <a href="#" class="close-btn">X</a>
+        </article>
+    </div>
+
+    <div class="modal-container" id="talent-management">
+        <article class="blog service-modal">
+            <div class="row">
+                <div class="blog-thumbnail col-md-8">
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                </div>
+                <div class="blog-info col-md-4">
+                    <h2 class="blog-title">Talent Management</h2>
+                    <p>An artist needs a representative, an advisor to asssist in your growth and handle not only your public relations, but negotiations and coordinations as well.  We’ve got you. </p>
+                </div>
+            </div>
+            <a href="#" class="close-btn">X</a>
+        </article>
+    </div>
+
+    <div class="modal-container" id="business-development">
+        <article class="blog service-modal">
+            <div class="row">
+                <div class="blog-thumbnail col-md-8">
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                </div>
+                <div class="blog-info col-md-4">
+                    <h2 class="blog-title">Business Development</h2>
+                    <p>Being an entrepreneaur is a constant challenge. Walk with us in your start up process and will walk with you the path of quick growth and success.</p>
+                </div>
+            </div>
+            <a href="#" class="close-btn">X</a>
+        </article>
+    </div>
+
+    <div class="modal-container" id="business-restructure">
+        <article class="blog service-modal">
+            <div class="row">
+                <div class="blog-thumbnail col-md-8">
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                </div>
+                <div class="blog-info col-md-4">
+                    <h2 class="blog-title">Business Restructure</h2>
+                    <p>Businesses have many external factors that affect the growth and success process and is not always a good idea to be self sufficient. 
+                    We create a rescue plan by restructuring certain or all areas of the business to put it back on track.</p>
+                </div>
+            </div>
+            <a href="#" class="close-btn">X</a>
+        </article>
+    </div>
+
+    <div class="modal-container" id="business-marketing">
+        <article class="blog service-modal">
+            <div class="row">
+                <div class="blog-thumbnail col-md-8">
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                </div>
+                <div class="blog-info col-md-4">
+                    <h2 class="blog-title">Business Marketing</h2>
+                    <p>You may continue to believe advertising is not needed in your business and that’s ok if you don’t want to grow, but if you’re set on reaching higher, marketing and promoting is the only way you will be known and found. 
+                    Our team has many years of experience in the field.</p>
+                </div>
+            </div>
+            <a href="#" class="close-btn">X</a>
+        </article>
+    </div>
+
+    <div class="modal-container" id="graphic-design">
+        <article class="blog service-modal">
+            <div class="row">
+                <div class="blog-thumbnail col-md-8">
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                </div>
+                <div class="blog-info col-md-4">
+                    <h2 class="blog-title">Graphic Design</h2>
+                    <p>We love to show off our graphic designers talents. 
+                    They’re an important piece in our team and they will dress you up for victory.</p>
+                </div>
+            </div>
+            <a href="#" class="close-btn">X</a>
+        </article>
+    </div>
+
+    <div class="modal-container" id="content-distribution">
+        <article class="blog service-modal">
+            <div class="row">
+                <div class="blog-thumbnail col-md-8">
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                </div>
+                <div class="blog-info col-md-4">
+                    <h2 class="blog-title">Content Distribution</h2>
+                    <p>Coco Chanel said; “In order to be irreplaceable one must always be different” and our content team abides by it.</p>
+                </div>
+            </div>
+            <a href="#" class="close-btn">X</a>
+        </article>
+    </div>
+
+    <div class="modal-container" id="release-strategy">
+        <article class="blog service-modal">
+            <div class="row">
+                <div class="blog-thumbnail col-md-8">
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                </div>
+                <div class="blog-info col-md-4">
+                    <h2 class="blog-title">Release Strategy</h2>
+                    <p>“Release” is a “big” word and that’s why it must be mafnificent. 
+                    We cover all areas of the release and make sure you boom.</p>
+                </div>
+            </div>
+            <a href="#" class="close-btn">X</a>
+        </article>
+    </div>
+
+    <div class="modal-container" id="paid-campaigns">
+        <article class="blog service-modal">
+            <div class="row">
+                <div class="blog-thumbnail col-md-8">
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                </div>
+                <div class="blog-info col-md-4">
+                    <h2 class="blog-title">Paid Campaigns</h2>
+                    <p>There may be necessary to give it you a little push and we know exactly how to target the correct campaign.</p>
+                </div>
+            </div>
+            <a href="#" class="close-btn">X</a>
+        </article>
+    </div>
+
+    <div class="modal-container" id="branding">
+        <article class="blog service-modal">
+            <div class="row">
+                <div class="blog-thumbnail col-md-8">
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                </div>
+                <div class="blog-info col-md-4">
+                    <h2 class="blog-title">Branding</h2>
+                    <p>Your brand will be created and promoted as soon as we define it by relevance depending on the scenario and intended target audience.</p>
+                </div>
+            </div>
+            <a href="#" class="close-btn">X</a>
+        </article>
+    </div>
+
+    <div class="modal-container" id="social-media-management">
+        <article class="blog service-modal">
+            <div class="row">
+                <div class="blog-thumbnail col-md-8">
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                </div>
+                <div class="blog-info col-md-4">
+                    <h2 class="blog-title">Social Media Management</h2>
+                    <p>Digital era has brought us together and now, more than ever you need to engage with your audience and our social media team is passionate about it. We will develop the best strategy to approach your relationship. </p>
+                </div>
+            </div>
+            <a href="#" class="close-btn">X</a>
+        </article>
+    </div>
+
+    <div class="modal-container" id="audiovisuals">
+        <article class="blog service-modal">
+            <div class="row">
+                <div class="blog-thumbnail col-md-8">
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                </div>
+                <div class="blog-info col-md-4">
+                    <h2 class="blog-title">Audiovisuals</h2>
+                    <p>They are an essential part of promoting. They current need for visualization is at its top level and that need must be fed. 
+                    Our audiovisuals team conforms of amazing artists and professionals to create music videos, business presentation videos, advertising spots from beginning to end.  
+                    It doesn’t matter if you’re an artist, an influencer, a business, the need is still the same.</p>
+                </div>
+            </div>
+            <a href="#" class="close-btn">X</a>
+        </article>
+    </div>
+
 <?php get_footer(); ?>

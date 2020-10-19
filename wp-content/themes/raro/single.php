@@ -46,7 +46,10 @@
                   </div>
                 </header>
                 <div class="post-thumbnail">
-                  <img alt="" class="img-responsive" src="<?php the_post_thumbnail_url() ?>">
+                  <?php 
+                    $alt = get_post_meta(get_post_thumbnail_id(), '_wp_attachment_image_alt', true);
+                  ?>
+                  <img alt="<?php echo $alt ?>" class="img-responsive" src="<?php the_post_thumbnail_url() ?>">
                 </div>
                 <?php the_content() ?>
               </article>
