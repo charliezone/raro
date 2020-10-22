@@ -177,7 +177,7 @@
           outof:"pause",
           visible_area:"80%"
         },
-        responsiveLevels:[2048,1750,1192],
+        responsiveLevels:[2048,1750,1192,480],
         gridwidth:[1180,1180,980],
         gridheight:[550],
         lazyType:"none",

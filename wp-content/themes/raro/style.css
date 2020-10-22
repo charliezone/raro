@@ -8,6 +8,21 @@
  * Text Domain: raro
  */
 
+ /* Fonts import */
+
+ @font-face {
+    font-family: "Poppins-Bold";
+    src: url("./assets/fonts/poppins/Poppins-Bold.eot"); /* IE9 Compat Modes */
+    src: url("./assets/fonts/poppins/Poppins-Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+      url("./assets/fonts/poppins/Poppins-Bold.otf") format("opentype"), /* Open Type Font */
+      url("./assets/fonts/poppins/Poppins-Bold.svg") format("svg"), /* Legacy iOS */
+      url("./assets/fonts/poppins/Poppins-Bold.ttf") format("truetype"), /* Safari, Android, iOS */
+      url("./assets/fonts/poppins/Poppins-Bold.woff") format("woff"), /* Modern Browsers */
+      url("./assets/fonts/poppins/Poppins-Bold.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+  }
+
  /* Home */
 
  /* Secundary color Text */
@@ -67,6 +82,15 @@
     }
  }
 
+ /* Slider */
+
+ @media screen and (max-width: 992px){
+    .rev_slider .btn{
+        font-size: 8px;
+        margin-left: -65px;
+    }
+ }
+
  /* Our Team */
  .our-team .member{
      box-shadow: 5px 5px 15px #000;
@@ -117,6 +141,50 @@
  }
 
  /* Services */
+
+ #services .project figcaption{
+    margin: 0;
+ }
+
+ #services .project figcaption .project-category-container{
+    height: 100%;
+    background: url(./assets/img/servicesbg.jpg) 0 center no-repeat;
+ }
+
+ @media screen and (max-width: 1600px){
+    #services .project figcaption .project-category-container{
+        background: url(./assets/img/servicesbg.jpg) 0 / 60px no-repeat;
+        background-size: contain;
+    }
+ }
+
+ #services .project figcaption .project-category-container .project-category{
+     bottom: 0;
+     margin: 0;
+     font-size: 23px;
+     text-align: center;
+     letter-spacing: 6px;
+     left: calc(63.5px - 15.5px);
+     font-family: 'Poppins-Bold';
+ }
+
+ @media screen and (max-width: 992px){
+    #services .project figcaption .project-category-container .project-category{
+        font-size: 15px;
+        text-align: left;
+        min-width: 500px;
+        left: calc(50px - 9px);
+        bottom: 10px;
+    }
+ }
+
+ @media screen and (min-width: 992px) and (max-width: 1600px){
+    #services .project figcaption .project-category-container .project-category{
+        font-size: 14px;
+        left: calc(50px - 9px);
+    }
+ }
+
  .modal-container{
     top: 0;
     left: 0;
@@ -153,6 +221,11 @@
 
  .modal-container .service-modal .blog-thumbnail{
      padding: 0;
+ }
+
+ .modal-container .service-modal .blog-thumbnail  .blog-thumbnail-img{
+    height: 200px;
+    overflow: hidden;
  }
 
  .modal-container .service-modal .close-btn{
@@ -226,4 +299,26 @@
 
  .wp-block-image img{
      height: auto;
+ }
+
+ /* Privacy Policy */
+ .privacy-policy .post{
+     padding: 0 15px;
+ }
+
+ .privacy-policy h5{
+     color: #fff;
+     font-size: 24px;
+     margin-top: 25px;
+     font-weight: 100;
+     font-family: Oswald;
+ }
+
+ .privacy-policy ul{
+     padding-left: 30px;
+     list-style-type: disc;
+ }
+
+ .privacy-policy a{
+    color: #b60101;
  }

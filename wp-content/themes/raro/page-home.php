@@ -50,6 +50,7 @@
                 <div class="slide-subtitle tp-caption tp-resizeme"
                 data-x="['right','right','right','right']" data-hoffset="['0']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['75','105']"
+                data-fontsize="['18','25', '25', '25']"
                 data-whitespace="nowrap"
                 data-transform_idle="o:1;"
                 data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1200;e:Power1.easeInOut;" 
@@ -119,6 +120,7 @@
                 <div class="slide-subtitle tp-caption tp-resizeme"
                 data-x="['right','right','right','right']" data-hoffset="['0']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['75','105']"
+                data-fontsize="['18','25', '25', '25']"
                 data-whitespace="nowrap"
                 data-transform_idle="o:1;"
                 data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1200;e:Power1.easeInOut;" 
@@ -189,6 +191,7 @@
                 <div class="slide-subtitle tp-caption tp-resizeme"
                 data-x="['right','right','right','right']" data-hoffset="['0']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['75','105']"
+                data-fontsize="['18','25', '25', '25']"
                 data-whitespace="nowrap"
                 data-transform_idle="o:1;"
                 data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1200;e:Power1.easeInOut;" 
@@ -203,7 +206,7 @@
 
                 <!-- Layer 3 -->
 
-                <div class="tp-caption tp-resizeme"
+                <div class="tp-caption"
                 data-x="['right','right','right','right']" data-hoffset="['0','0','0','0']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['195','215']"
                 data-width="none"
@@ -218,8 +221,7 @@
                 data-start="1500" 
                 data-splitin="none" 
                 data-splitout="none" 
-                data-responsive_offset="on" 
-                style="z-index: 8;"><a href="#contact" class="btn cta js-target-scroll">Contact us <i class="icon-next"></i></a>
+                data-responsive_offset="on"><a href="#contact" class="btn cta js-target-scroll">Contact us <i class="icon-next"></i></a>
                 </div>
             </li>
 
@@ -259,7 +261,7 @@
                 <div class="slide-subtitle tp-caption tp-resizeme"
                 data-x="['right','right','right','right']" data-hoffset="['0']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['75','105']"
-                data-fontsize="['18']" 
+                data-fontsize="['18','25', '25', '25']"
                 data-whitespace="nowrap"
                 data-transform_idle="o:1;"
                 data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1200;e:Power1.easeInOut;" 
@@ -274,7 +276,7 @@
 
                 <!-- Layer 3 -->
 
-                <div class="tp-caption tp-resizeme"
+                <div class="tp-caption"
                 data-x="['right','right','right','right']" data-hoffset="['0','0','0','0']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['195','215']"
                 data-width="none"
@@ -289,8 +291,7 @@
                 data-start="1500" 
                 data-splitin="none" 
                 data-splitout="none" 
-                data-responsive_offset="on" 
-                style="z-index: 8;"><a href="#contact" class="btn cta js-target-scroll">Contact us <i class="icon-next"></i></a>
+                data-responsive_offset="on"><a href="#contact" class="btn cta js-target-scroll">Contact us <i class="icon-next"></i></a>
                 </div>
             </li>
         </ul>
@@ -354,241 +355,226 @@
         </div>
         <div class="section-content">
             <div class="projects-carousel js-projects-carousel js-projects-gallery">
-            <div class="project project-light">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/1-480x880.jpg" title="Music Production" target="music-production">
+            <div class="project">
+                <a href="#" title="Music Production" target="music-production">
                 <figure>
-                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/1-480x880.jpg">
+                    <img alt="MUSIC PRODUCTION" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/music-production.jpg">
                     <figcaption>
-                    <h3 class="project-title">
-                        Music Production
-                    </h3>
-                    <h4 class="project-category">
-                        Music
-                    </h4>
+                    <div class="project-category-container">
+                        <h4 class="project-category">
+                            MUSIC PRODUCTION
+                        </h4>
+                    </div>
                     <div class="project-zoom"></div>
                     </figcaption>
                 </figure>
                 </a>
             </div>
-            <div class="project project-light">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/2-480x880.jpg" title="Music Distribution" target="music-distribution">
+            <div class="project ">
+                <a href="#" title="Music Distribution" target="music-distribution">
                 <figure>
-                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/2-480x880.jpg">
+                    <img alt="MUSIC DISTRIBUTION" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/music-distribution.jpg">
                     <figcaption>
-                    <h3 class="project-title">
-                        Music Distribution
-                    </h3>
-                    <h4 class="project-category">
-                        Music
-                    </h4>
+                    <div class="project-category-container">
+                        <h4 class="project-category">
+                            MUSIC DISTRIBUTION
+                        </h4>
+                    </div>
                     <div class="project-zoom"></div>
                     </figcaption>
                 </figure>
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/3-480x880.jpg" title="Talent Development" target="talent-development">
+                <a href="#" title="Talent Development" target="talent-development">
                 <figure>
-                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/3-480x880.jpg">
+                    <img alt="Talent Development" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/talent-development.jpg">
                     <figcaption>
-                    <h3 class="project-title">
+                    <div class="project-category-container">
+                        <h4 class="project-category">
                         Talent Development
-                    </h3>
-                    <h4 class="project-category">
-                        Music
-                    </h4>
+                        </h4>
+                    </div>
                     <div class="project-zoom"></div>
                     </figcaption>
                 </figure>
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/4-480x880.jpg" title="Music Marketing" target="music-marketing">
+                <a href="#" title="Music Marketing" target="music-marketing">
                 <figure>
-                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/4-480x880.jpg">
+                    <img alt="Music Marketing" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/music-marketing.jpg">
                     <figcaption>
-                    <h3 class="project-title">
-                        Music Marketing
-                    </h3>
-                    <h4 class="project-category">
-                        Music
-                    </h4>
+                    <div class="project-category-container">
+                        <h4 class="project-category">
+                            Music Marketing
+                        </h4>
+                    </div>
                     <div class="project-zoom"></div>
                     </figcaption>
                 </figure>
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/5-480x880.jpg" title="Talent Management" target="talent-management">
+                <a href="#" title="Talent Management" target="talent-management">
                 <figure>
-                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/5-480x880.jpg">
+                    <img alt="Talent Management" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/talent-management.jpg">
                     <figcaption>
-                    <h3 class="project-title">
-                        Talent Management
-                    </h3>
-                    <h4 class="project-category">
-                        Music
-                    </h4>
+                    <div class="project-category-container">
+                        <h4 class="project-category">
+                            Talent Management
+                        </h4>
+                    </div>
                     <div class="project-zoom"></div>
                     </figcaption>
                 </figure>
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/6-480x880.jpg" title="Business Development" target="business-development">
+                <a href="#" title="Business Development" target="business-development">
                 <figure>
-                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/6-480x880.jpg">
+                    <img alt="Business Development" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/businness-development.jpg">
                     <figcaption>
-                    <h3 class="project-title">
-                        Business Development
-                    </h3>
-                    <h4 class="project-category">
-                        Business
-                    </h4>
+                    <div class="project-category-container">
+                        <h4 class="project-category">
+                            Business Development
+                        </h4>
+                    </div>
                     <div class="project-zoom"></div>
                     </figcaption>
                 </figure>
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/7-480x880.jpg" title="Business Restructure" target="business-restructure">
+                <a href="#" title="Business Restructure" target="business-restructure">
                 <figure>
-                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/7-480x880.jpg">
+                    <img alt="Business Restructure" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/business-restructure.jpg">
                     <figcaption>
-                    <h3 class="project-title">
-                        Business Restructure
-                    </h3>
-                    <h4 class="project-category">
-                        Business
-                    </h4>
+                    <div class="project-category-container">
+                        <h4 class="project-category">
+                            Business Restructure
+                        </h4>
+                    </div>
                     <div class="project-zoom"></div>
                     </figcaption>
                 </figure>
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg" title="Business Marketing" target="business-marketing">
+                <a href="#" title="Business Marketing" target="business-marketing">
                 <figure>
-                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg">
+                    <img alt="Business Marketing" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/business-marketing.jpg">
                     <figcaption>
-                    <h3 class="project-title">
-                        Business Marketing
-                    </h3>
-                    <h4 class="project-category">
-                        Business
-                    </h4>
+                    <div class="project-category-container">
+                        <h4 class="project-category">
+                            Business Marketing
+                        </h4>
+                    </div>
                     <div class="project-zoom"></div>
                     </figcaption>
                 </figure>
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg" title="Graphic Design" target="graphic-design">
+                <a href="#" title="Graphic Design" target="graphic-design">
                 <figure>
-                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg">
+                    <img alt="Graphic Design" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/graphic-design.jpg">
                     <figcaption>
-                    <h3 class="project-title">
-                        Graphic Design
-                    </h3>
-                    <h4 class="project-category">
-                        Business
-                    </h4>
+                    <div class="project-category-container">
+                        <h4 class="project-category">
+                            Graphic Design
+                        </h4>
+                    </div>
                     <div class="project-zoom"></div>
                     </figcaption>
                 </figure>
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg" title="Content Distribution" target="content-distribution">
+                <a href="#" title="Content Distribution" target="content-distribution">
                 <figure>
-                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg">
+                    <img alt="Content Distribution" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/content-distribution.jpg">
                     <figcaption>
-                    <h3 class="project-title">
-                        Content Distribution
-                    </h3>
-                    <h4 class="project-category">
-                        Marketing
-                    </h4>
+                    <div class="project-category-container">
+                        <h4 class="project-category">
+                            Content Distribution
+                        </h4>
+                    </div>
                     <div class="project-zoom"></div>
                     </figcaption>
                 </figure>
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg" title="Release Strategy" target="release-strategy">
+                <a href="#" title="Release Strategy" target="release-strategy">
                 <figure>
-                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg">
+                    <img alt="Release Strategy" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/release-strategy.jpg">
                     <figcaption>
-                    <h3 class="project-title">
-                        Release Strategy
-                    </h3>
-                    <h4 class="project-category">
-                        Marketing
-                    </h4>
+                    <div class="project-category-container">
+                        <h4 class="project-category">
+                            Release Strategy
+                        </h4>
+                    </div>
                     <div class="project-zoom"></div>
                     </figcaption>
                 </figure>
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg" title="Paid Campaigns" target="paid-campaigns">
+                <a href="#" title="Paid Campaigns" target="paid-campaigns">
                 <figure>
-                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg">
+                    <img alt="Paid Campaigns" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/paid-campaigns.jpg">
                     <figcaption>
-                    <h3 class="project-title">
-                        Paid Campaigns
-                    </h3>
-                    <h4 class="project-category">
-                        Marketing
-                    </h4>
+                    <div class="project-category-container">    
+                        <h4 class="project-category">
+                            Paid Campaigns
+                        </h4>
+                    </div>
                     <div class="project-zoom"></div>
                     </figcaption>
                 </figure>
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg" title="Branding" target="branding">
+                <a href="#" title="Branding" target="branding">
                 <figure>
-                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg">
+                    <img alt="Branding" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/branding.jpg">
                     <figcaption>
-                    <h3 class="project-title">
-                        Branding
-                    </h3>
-                    <h4 class="project-category">
-                        Marketing
-                    </h4>
+                    <div class="project-category-container">
+                        <h4 class="project-category">
+                            Branding
+                        </h4>
+                    </div>
                     <div class="project-zoom"></div>
                     </figcaption>
                 </figure>
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg" title="Social Media Management" target="social-media-management">
+                <a href="#" title="Social Media Management" target="social-media-management">
                 <figure>
-                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg">
+                    <img alt="Social Media Management" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/social-media.jpg">
                     <figcaption>
-                    <h3 class="project-title">
-                        Social Media Management
-                    </h3>
-                    <h4 class="project-category">
-                        Marketing
-                    </h4>
+                    <div class="project-category-container">
+                        <h4 class="project-category">
+                            Social Media
+                        </h4>
+                    </div>
                     <div class="project-zoom"></div>
                     </figcaption>
                 </figure>
                 </a>
             </div>
             <div class="project">
-                <a href="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg" title="Audiovisuals" target="audiovisuals">
+                <a href="#" title="Audiovisuals" target="audiovisuals">
                 <figure>
-                    <img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/projects/8-480x880.jpg">
+                    <img alt="Audiovisuals" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/branding.jpg">
                     <figcaption>
-                    <h3 class="project-title">
-                        Audiovisuals
-                    </h3>
-                    <h4 class="project-category">
-                        Creativity
-                    </h4>
+                    <div class="project-category-container">
+                        <h4 class="project-category">
+                            Audiovisuals
+                        </h4>
+                    </div>
                     <div class="project-zoom"></div>
                     </figcaption>
                 </figure>

@@ -34,7 +34,7 @@
               </a>
             </div>
             <div class="text-center-md col-base col-md-4">
-              <a href="https://themeforest.net/user/murren20" class="author-link">
+              <a href="<?php echo site_url('privacy-policy') ?>" class="author-link">
                 Privacy Notice
               </a>
             </div>
