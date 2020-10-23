@@ -29,7 +29,7 @@
                 data-x="['right','right','right','right']" data-hoffset="['-18','-18','-18','-18']" 
                 data-y="['middle','middle','middle','middle']" data-voffset="['-35','-35', '-25']"
                 data-fontsize="['50','45', '35']"
-                data-lineheight="['80','75', '65']"
+                data-lineheight="['65']"
                 data-width="['1100','700','550']"
                 data-height="none"
                 data-whitespace="normal"

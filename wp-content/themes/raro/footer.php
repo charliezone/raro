@@ -45,6 +45,11 @@
         </div>
       </footer>
 
+      <!-- Go up button -->
+      <div class="go-up">
+        <a href="#top" class="js-target-scroll"><i class="fa fa-arrow-up"></i></a>
+      </div>
+
       <!-- Lines -->
 
       <div class="page-lines">
