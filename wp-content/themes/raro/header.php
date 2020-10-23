@@ -58,10 +58,10 @@
             <div class="line"></div>
          </div>
         <ul class="social-list">
-          <li><a href="https://www.instagram/rarocompany" class="fa fa-instagram"></a></li>
-          <li><a href="https://www.twitter.com/RaRoCompany" class="fa fa-twitter"></a></li>
-          <li><a href="https://www.linkedin.com/raro-company" class="fa fa-linkedin"></a></li>
-          <li><a href="https://www.facebook.com/RaRoCompany" class="fa fa-facebook"></a></li>
+          <li><a href="https://www.instagram.com/rarocompany/?hl=es-la" target="_blank" class="fa fa-instagram"></a></li>
+          <li><a href="https://www.twitter.com/RaRoCompany" target="_blank" class="fa fa-twitter"></a></li>
+          <li><a href="https://www.linkedin.com/raro-company" target="_blank" class="fa fa-linkedin"></a></li>
+          <li><a href="https://www.facebook.com/RaRoCompany" target="_blank" class="fa fa-facebook"></a></li>
          </ul>  
       </div> 
 
