@@ -50,7 +50,7 @@
         </div>
         <?php endif;?>
       </div>
-      <div class="header-phone"><a href="tel:17863715657">+1 (786) 371-5657</a></div>
+      <div class="header-phone"><a href="tel:+17863715657">+1 (786) 371-5657</a></div>
       <div class="vertical-panel"></div>
       <div class="vertical-panel-content">
         <div class="vertical-panel-info">
