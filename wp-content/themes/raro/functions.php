@@ -30,6 +30,7 @@ function raro_styles_scripts() {
     wp_enqueue_script( 'script-rev-slider-extension-slideanims', get_template_directory_uri() . '/assets/js/rev-slider/revolution.extension.slideanims.min.js', array('script-rev-slider-extension-parallax'), '', true );
     wp_enqueue_script( 'script-rev-slider-extension-video', get_template_directory_uri() . '/assets/js/rev-slider/revolution.extension.video.min.js', array('script-rev-slider-extension-slideanims'), '', true );
     wp_enqueue_script( 'script-interface', get_template_directory_uri() . '/assets/js/interface.js', array('script-rev-slider-extension-video'), '', true );
+    wp_enqueue_script( 'script-custom', get_template_directory_uri() . '/assets/js/custom.js', array('script-interface'), '', true );
 }
 
 function raro_head_styles_scripts(){

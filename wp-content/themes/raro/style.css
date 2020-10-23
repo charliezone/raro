@@ -8,6 +8,21 @@
  * Text Domain: raro
  */
 
+ /* Fonts import */
+
+ @font-face {
+    font-family: "Poppins-Bold";
+    src: url("./assets/fonts/poppins/Poppins-Bold.eot"); /* IE9 Compat Modes */
+    src: url("./assets/fonts/poppins/Poppins-Bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+      url("./assets/fonts/poppins/Poppins-Bold.otf") format("opentype"), /* Open Type Font */
+      url("./assets/fonts/poppins/Poppins-Bold.svg") format("svg"), /* Legacy iOS */
+      url("./assets/fonts/poppins/Poppins-Bold.ttf") format("truetype"), /* Safari, Android, iOS */
+      url("./assets/fonts/poppins/Poppins-Bold.woff") format("woff"), /* Modern Browsers */
+      url("./assets/fonts/poppins/Poppins-Bold.woff2") format("woff2"); /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+  }
+
  /* Home */
 
  /* Secundary color Text */
@@ -17,8 +32,20 @@
  .experience-info .text-primary,
  .col-address a,
  .navbar-desctop.affix .navbar-desctop-menu li > a:hover,
- .navbar-nav-mobile li a:hover, .navbar-nav-mobile li .active > a{
+ .navbar-desctop-menu li a:hover,
+ .navbar-nav-mobile li a:hover, .navbar-nav-mobile li .active > a,
+ .author-link a:hover,
+ .col-about-title .text-primary{
      color: #b60101;
+ }
+
+ .header-phone a,
+ .header-phone a:hover{
+     color: #fff;
+ }
+
+ .header-phone a:nth-of-type(1){
+     margin-right: 15px;
  }
 
  /* Secundary color background */
@@ -32,6 +59,16 @@
  }
 
  /* Logo */
+ .brand-panel .brand img,
+ .footer .brand img{
+    width: 50%;
+ }
+
+ @media screen and (max-width: 992px){
+    .brand-panel .brand img{
+        width: 80%;
+    }
+ }
 
  .navbar-desctop .brand img{
     width: 50%
@@ -44,6 +81,15 @@
 
     .navbar-mobile .brand img{
         width: 40%;
+    }
+ }
+
+ /* Slider */
+
+ @media screen and (max-width: 992px){
+    .rev_slider .btn{
+        font-size: 8px;
+        margin-left: -65px;
     }
  }
 
@@ -75,11 +121,11 @@
 
  .our-team .member .member-content{
      height: 100px;
-     background-color: #fff;
      display: flex;
-     justify-content: center;
      align-items: center;
+     background-color: #fff;
      flex-direction: column;
+     justify-content: center;
  }
 
  .our-team .member .member-content .name{
@@ -90,8 +136,216 @@
  }
 
  .our-team .member .member-content .job{
-    color: #bab39a;
+    color: #b60101;
     font-size: 14px;
     font-weight: bold;
     font-family: 'Oswald';
  }
+
+ /* Services */
+
+ #services .project figcaption{
+    margin: 0;
+ }
+
+ #services .project figcaption .project-category-container{
+    height: 100%;
+    background: url(./assets/img/servicesbg.jpg) 0 center no-repeat;
+ }
+
+ @media screen and (max-width: 1600px){
+    #services .project figcaption .project-category-container{
+        background: url(./assets/img/servicesbg.jpg) 0 / 60px no-repeat;
+        background-size: contain;
+    }
+ }
+
+ #services .project figcaption .project-category-container .project-category{
+     bottom: 0;
+     margin: 0;
+     font-size: 23px;
+     text-align: center;
+     letter-spacing: 6px;
+     left: calc(63.5px - 15.5px);
+     font-family: 'Poppins-Bold';
+ }
+
+ @media screen and (max-width: 992px){
+    #services .project figcaption .project-category-container .project-category{
+        font-size: 15px;
+        text-align: left;
+        min-width: 500px;
+        left: calc(50px - 9px);
+        bottom: 10px;
+    }
+ }
+
+ @media screen and (min-width: 992px) and (max-width: 1600px){
+    #services .project figcaption .project-category-container .project-category{
+        font-size: 14px;
+        left: calc(50px - 9px);
+    }
+ }
+
+ .modal-container{
+    top: 0;
+    left: 0;
+    z-index: 9;
+    width: 100vw;
+    height: 100vh;
+    display: none;
+    position: fixed;
+    background-color: rgba(0, 0, 0, .5);
+ }
+
+ .modal-container .service-modal{
+    top: 5vh;
+    left: 15vw;
+    width: 70vw;
+    height: 90vh;
+    display: flex;
+    position: relative;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 5px 15px #000;
+ }
+
+ @media screen and (max-width: 992px){
+    .modal-container .service-modal{
+        align-items: unset;
+    }
+ }
+
+ .modal-container .service-modal .row{
+     width: 100%;
+ }
+
+ .modal-container .service-modal .blog-thumbnail{
+     padding: 0;
+ }
+
+ .modal-container .service-modal .blog-thumbnail  .blog-thumbnail-img{
+    height: 200px;
+    overflow: hidden;
+ }
+
+ .modal-container .service-modal .close-btn{
+    top: 15px;
+    right: 25px;
+    color: #fff;
+    position: absolute;
+ }
+
+ @media screen and (max-width: 992px){
+    .modal-container .service-modal .close-btn{
+        top: 10px;
+        right: 10px;
+        width: 24px;
+        display: flex;
+        font-size: 15px;
+        font-weight: bold;
+        align-items: center;
+        border-radius: 50px;
+        justify-content: center;
+        background-color: rgba(0, 0, 0, .5);
+    }
+ }
+
+ .modal-container .service-modal .close-btn:hover{
+     text-decoration: unset;
+ }
+
+ /* No home header */
+
+ .header-inner .vertical-panel,
+ .header-inner .brand-name,
+ .header-inner .vertical-panel-content{
+     display: none;
+ }
+ 
+ .header-inner .brand-panel{
+     background-color: transparent;
+ }
+
+ /* No home Main */
+
+ .main-inner{
+    padding: 33.7vmin 0 1.7vmin;
+ }
+
+ /* Blog */
+
+ .blog-meta .author,
+ .blog-meta .time{
+    float: none;
+ }
+
+ .blog-details article.post{
+     padding: 0 15px;
+ }
+
+ .navigation.pagination .nav-links a{
+    color: #b60101;
+ }
+
+ .navigation.pagination .nav-links .page-numbers{
+     margin: 0 5px;
+ }
+
+ @media screen and (max-width: 992px){
+    .navigation.pagination .nav-links .page-numbers{
+        margin: 0 8px;
+    }
+ }
+
+ .wp-block-image img{
+     height: auto;
+ }
+
+ /* Privacy Policy */
+ .privacy-policy .post{
+     padding: 0 15px;
+ }
+
+ .privacy-policy h5{
+     color: #fff;
+     font-size: 24px;
+     margin-top: 25px;
+     font-weight: 100;
+     font-family: Oswald;
+ }
+
+ .privacy-policy ul{
+     padding-left: 30px;
+     list-style-type: disc;
+ }
+
+ .privacy-policy a{
+    color: #b60101;
+ }
+
+ /* Go up btn */
+
+ .go-up{
+    right: 50px;
+    bottom: 30px;
+    display: none;
+    position: fixed;
+    font-size: 65px;
+ }
+
+ .go-up .fa{
+    color: #b60101;
+    text-shadow: 2px 2px 2px #000;
+    text-shadow: 3px 4px 10px #000;
+ }
+
+ @media screen and (max-width: 992px){
+    .go-up{
+        right: 10px;
+        bottom: 0px;
+        font-size: 40px;
+    }
+ }
+

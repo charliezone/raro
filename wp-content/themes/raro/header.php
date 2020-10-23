@@ -37,9 +37,9 @@
 
     <!-- Header -->
 
-    <header id="top" class="header-home">
+    <header id="top" class="<?php echo (is_page('home')) ? 'header-home' : 'header-inner' ?>">
       <div class="brand-panel">
-        <a href="#top" class="brand js-target-scroll">
+        <a href="<?php echo site_url(); ?>" class="brand js-target-scroll">
           <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="RaRo Logo">
         </a>
         <div class="brand-name">RaRo</div>
@@ -50,7 +50,7 @@
         </div>
         <?php endif;?>
       </div>
-      <div class="header-phone">+7 (212) 674-25-10</div>
+      <div class="header-phone"><a href="tel:+17863715657">+1 (786) 371-5657</a></div>
       <div class="vertical-panel"></div>
       <div class="vertical-panel-content">
         <div class="vertical-panel-info">
@@ -69,19 +69,25 @@
 
       <nav class="navbar-desctop visible-md visible-lg">
         <div class="container">
-          <a href="#top" class="brand js-target-scroll">
+          <a href="<?php echo site_url(); ?>" class="brand js-target-scroll">
             <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="RaRo Logo">
           </a>
           <ul class="navbar-desctop-menu">
+            <?php if(is_page('home')): ?>
             <li>
                 <a href="#about" class="js-target-scroll">About us</a>
             </li>
             <li>
-              <a href="#services" class="js-target-scroll">Our Team</a>
+              <a href="#our-team" class="js-target-scroll">Our Team</a>
             </li>
             <li>
               <a href="#services" class="js-target-scroll">Services</a>
             </li>
+            <?php else: ?>
+            <li>
+              <a href="<?php echo site_url() ?>">Home</a>
+            </li>
+            <?php endif ?>
             <li>
               <a href="#contact" class="js-target-scroll">Contact</a>
             </li>
@@ -92,7 +98,7 @@
       <!-- Navigation Mobile -->
 
       <nav class="navbar-mobile">
-        <a href="#top" class="brand js-target-scroll">
+        <a href="<?php echo site_url(); ?>" class="brand js-target-scroll">
             <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="RaRo Logo">
         </a>
 
@@ -107,15 +113,21 @@
 
         <div class="collapse navbar-collapse" id="navbar-mobile"> 
           <ul class="navbar-nav-mobile">
+            <?php if(is_page('home')): ?>
             <li>
                 <a href="#about" class="js-target-scroll">About us</a>
             </li>
             <li>
-              <a href="#services" class="js-target-scroll">Our Team</a>
+              <a href="#our-team" class="js-target-scroll">Our Team</a>
             </li>
             <li>
               <a href="#services" class="js-target-scroll">Services</a>
             </li>
+            <?php else: ?>
+            <li>
+              <a href="<?php echo site_url() ?>">Home</a>
+            </li>
+            <?php endif ?>
             <li>
               <a href="#contact" class="js-target-scroll">Contact</a>
             </li>
