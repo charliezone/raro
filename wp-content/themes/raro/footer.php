@@ -29,7 +29,7 @@
         <div class="container">
           <div class="row-base row">
             <div class="col-base text-left-md col-md-4">
-              <a href="#" class="brand">
+              <a href="#top" class="brand js-target-scroll">
               <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="RaRo Logo">
               </a>
             </div>

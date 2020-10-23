@@ -69,7 +69,7 @@
 
       <nav class="navbar-desctop visible-md visible-lg">
         <div class="container">
-          <a href="#top" class="brand js-target-scroll">
+          <a href="<?php echo site_url(); ?>" class="brand js-target-scroll">
             <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="RaRo Logo">
           </a>
           <ul class="navbar-desctop-menu">
@@ -98,7 +98,7 @@
       <!-- Navigation Mobile -->
 
       <nav class="navbar-mobile">
-        <a href="#top" class="brand js-target-scroll">
+        <a href="<?php echo site_url(); ?>" class="brand js-target-scroll">
             <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="RaRo Logo">
         </a>
 

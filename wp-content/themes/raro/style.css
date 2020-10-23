@@ -33,7 +33,9 @@
  .col-address a,
  .navbar-desctop.affix .navbar-desctop-menu li > a:hover,
  .navbar-desctop-menu li a:hover,
- .navbar-nav-mobile li a:hover, .navbar-nav-mobile li .active > a{
+ .navbar-nav-mobile li a:hover, .navbar-nav-mobile li .active > a,
+ .author-link a:hover,
+ .col-about-title .text-primary{
      color: #b60101;
  }
 
@@ -134,7 +136,7 @@
  }
 
  .our-team .member .member-content .job{
-    color: #bab39a;
+    color: #b60101;
     font-size: 14px;
     font-weight: bold;
     font-family: 'Oswald';
