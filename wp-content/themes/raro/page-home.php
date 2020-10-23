@@ -314,9 +314,15 @@
                 <div class="col-base col-sm-6 col-md-4">
                 <h3 class="col-about-title">we turn ideas into works of art<span class="text-primary">.</span></h3>
                 <div class="col-about-info">
-                    <p>RaRo Co. is dedicated to support new talents and projects in the entertainment industry.</p>
-                    <p>For each project we establish relationships with partners who we know will help us create added value for your project. As well as bringing together the public and private sectors, we make sector-overarching links to gather knowledge and to learn from each other. The way we undertake projects is based on permanently applying values that reinforce each other: socio-cultural value, experiental value, building-technical value 
-    and economical value.  This way of working allows us to raise your project to a higher level.</p>
+                    <h4>Vision</h4>
+                    <p>RaRo Company is a young multimedia agency backed by a very experienced crew. With a fresh and visionary character based on a solid business model, where our team restlessly work on our clients and associates goals.</p>
+                    <p>We know we must wear different hats to meet individual’s needs. And we are ready to accept the challenges. “No” is not a word in our vocabulary. We plan, we build, we succeed. And we do it quick.</p>
+                    <p>The trust of our clients, is our highest pride.</p>
+                    <h4>Our mission</h4>
+                    <p>RaRo Company firmly believes in the talent of each artist we represent and we bet in a highly competitive industry with a range of music genres and highly qualified professionals. We provide attractive and precise support to encourage their creativity and maximize their performance.</p>
+                    <p>We support new artists proposals and work together continuosly in music and visual production to ensure we reach our goals, aligned and firm, assuring global positioning in all digital platforms as number one! Our main objective, be the link that connects them to their public and create a solid brand behind each one of them that provides them fundamental support in their careers.</p>
+                    <p>As a multimedia agency we know how important your business legacy is. Our highly qualified team will team up to create or update your business image and will put our tools and knowledge at your service to assure your marketing campaigns are sucessful.</p>
+                    <p>Your business is our business!</p>
                 </div>
                 </div>
                 <div class="col-base col-about-spec col-sm-6 col-md-4">
@@ -680,7 +686,7 @@
                             </div>
                             <div class="member-content">
                                 <h3 class="name">Eduardo González</h3>
-                                <small class="job">Marketing & Ceo</small>
+                                <small class="job">Marketing Ceo</small>
                             </div>
                         </div>
                     </div>
@@ -769,7 +775,7 @@
                 </div>
                 <div class="blog-info col-md-4">
                     <h2 class="blog-title">Talent Development</h2>
-                    <p>Is the Carterpillar to butterfly transition.  You will have personalized support to build a professional career in the entertainment industry.  You bring in your talent and dreams, we do the rest.</p>
+                    <p>Is the carterpillar to butterfly transition.  You will have personalized support to build a professional career in the entertainment industry.  You bring in your talent and dreams, we do the rest.</p>
                 </div>
             </div>
             <a href="#" class="close-btn">X</a>
