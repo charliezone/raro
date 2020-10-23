@@ -34,7 +34,7 @@
  .navbar-desctop.affix .navbar-desctop-menu li > a:hover,
  .navbar-desctop-menu li a:hover,
  .navbar-nav-mobile li a:hover, .navbar-nav-mobile li .active > a,
- .author-link a:hover,
+ .footer .author-link:hover,
  .col-about-title .text-primary{
      color: #b60101;
  }
