@@ -328,11 +328,20 @@
  /* Go up btn */
 
  .go-up{
-    right: 50px;
-    bottom: 30px;
+    left: 50px;
+    z-index: 9;
+    bottom: 3px;
     display: none;
     position: fixed;
     font-size: 65px;
+ }
+
+ @media screen and (max-width: 992px){
+    .go-up{
+        left: 20px;
+        bottom: 0;
+        font-size: 40px;
+    }
  }
 
  .go-up .fa{
@@ -340,12 +349,3 @@
     text-shadow: 2px 2px 2px #000;
     text-shadow: 3px 4px 10px #000;
  }
-
- @media screen and (max-width: 992px){
-    .go-up{
-        right: 10px;
-        bottom: 0px;
-        font-size: 40px;
-    }
- }
-
