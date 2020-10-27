@@ -6,6 +6,7 @@
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: raro
+ * Domain Path: /languages
  */
 
  /* Fonts import */
@@ -82,6 +83,10 @@
     .navbar-mobile .brand img{
         width: 40%;
     }
+ }
+
+ .navbar-desctop-menu .lang-item-en{
+     margin-left: 15px; 
  }
 
  /* Slider */
@@ -323,6 +328,10 @@
 
  .privacy-policy a{
     color: #b60101;
+ }
+
+ .privacy-policy h5{
+     text-transform: uppercase;
  }
 
  /* Go up btn */

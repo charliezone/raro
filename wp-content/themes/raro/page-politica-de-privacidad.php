@@ -1,0 +1,138 @@
+<?php get_header(); ?>
+<!-- Layout -->
+
+<div class="layout">
+    
+    <!-- Home -->
+    
+    <main class="main main-inner main-blog bg-blog" data-stellar-background-ratio="0.6">
+
+      <!-- Lines -->
+
+      <div class="page-lines">
+        <div class="container">
+          <div class="col-line col-xs-4">
+            <div class="line"></div>
+          </div>
+          <div class="col-line col-xs-4">
+            <div class="line"></div>
+          </div>
+          <div class="col-line col-xs-4">
+            <div class="line"></div>
+            <div class="line"></div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <div class="content">   
+    
+      <!-- Blog Details -->
+
+      <section class="privacy-policy">
+        <div class="container">
+          <div class="row">
+            <div class="col-primary col-xs-12">
+              <article class="post">
+                <header class="post-header">
+                  <h3>POLÍTICA DE PRIVACIDAD</h3>
+                  <small>Última actualización y vigencia a partir del 27/07/2020</small>
+                </header>
+                <p>Este sitio web es operado por RaRo Company y sus socios (colectivamente, "nosotros", "nos" o "nuestro"), que es un controlador de datos responsable del procesamiento de datos personales según la ley de protección de datos aplicable.</p>
+                <p>Esta Política de Privacidad ("Política") explica nuestras prácticas de información en línea y los tipos de información que podemos recopilar como resultado de su interacción con nosotros a través de los sitios web en los que se publica esta Política, incluidos los sitios web a los que puede acceder utilizando su dispositivo móvil electrónico dispositivo (colectivamente, "Sitios") y los servicios prestados a través de los Sitios ("Servicios"). Esta Política también explica cómo pretendemos usar y compartir esa información, cómo protegemos esa información y cómo puede optar por no usarla o corregirla o cambiarla.</p>  
+                <p>Esta Política no se aplica a sitios web, servicios o aplicaciones de terceros, incluso si son accesibles a través de nuestros Servicios. Se espera que todas las personas cuyas responsabilidades incluyan el procesamiento de información personal en nuestro nombre, protejan esos datos mediante el cumplimiento de esta Política de Privacidad. Esta Política de Privacidad está destinada a cumplir los requisitos a nivel mundial, incluidos los de Estados Unidos de América, Europa, APAC y otras jurisdicciones.</p>
+                <h5>CONSENTIMIENTO PARA EL PROCESAMIENTO</h5>    
+                <p>Nuestros sitios funcionan en Estados Unidos de América. Si se encuentra en la Unión Europea, Canadá u otro lugar fuera de Estados Unidos de América, tenga en cuenta que la información que recopilamos será transferida y procesada en los Estados Unidos de América. Al usar nuestros Sitios, o al proporcionarnos cualquier información, usted comprende completamente y acepta sin ambigüedades esta transferencia, procesamiento y almacenamiento de su información en los Estados Unidos de América, una jurisdicción en la que las leyes de privacidad pueden no ser tan completas como las del país donde reside y / o es ciudadano.</p>
+                <h5>PROTECCIÓN PARA NIÑOS - CUMPLIMIENTO COPPA</h5>
+                <p>La Ley de protección de la privacidad en línea para niños ("COPPA") impone ciertos requisitos a los sitios web y servicios en línea que están dirigidos a los niños. Estamos comprometidos a proteger la privacidad en línea de los niños y a cumplir plenamente con COPPA. No recopilamos ninguna información de identificación personal en ningún lugar de los Sitios, excepto donde se indique expresamente. Creemos que los niños deberían poder usar Internet de manera segura, productiva y eficiente, y deberían tener la mayor protección disponible con respecto a su información personal. Con ese fin, solo solicitamos información de identificación personal de los adultos. No recopilamos a sabiendas ninguna información de identificación individual de usuarios menores de 13 años en ningún lugar de los Sitios. Si nos damos cuenta de que un niño menor de 13 años ha presentado su información de identificación personal, eliminaremos dicha información de inmediato. Visite http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html para obtener información de la Comisión Federal de Comercio sobre COPPA y la protección de la privacidad de los niños en línea.</p>
+                <h5>SUS DERECHOS DE PRIVACIDAD DE CALIFORNIA</h5>
+                <p>Si es residente de California, puede solicitar cierta información una vez al año sobre nuestra divulgación de ciertas categorías de información personal durante el año calendario anterior a terceros para los fines de marketing directo de dichos terceros. Envíe su solicitud por correo electrónico a <a href="mailto:info@raro-co.com">info@raro-co.com</a> atención Coordinador de Privacidad. Nos reservamos el derecho de no responder a las solicitudes enviadas que no sea a la dirección de correo electrónico o de correo especificadas en esta sección. ACTUALIZACIONES DE ESTA POLÍTICA DE PRIVACIDAD</p>
+                <p>Podemos cambiar esta Política de privacidad en cualquier momento. Consulte la leyenda "ÚLTIMA ACTUALIZACIÓN" en la parte superior de esta página para ver cuándo se revisó por última vez esta Política de Privacidad. Cualquier cambio a esta Política de Privacidad entrará en vigencia cuando hagamos que la Política de Privacidad revisada esté disponible en o/a través del Sitio. El uso de dicho sitio o el envío de cualquier información relacionada con dicho sitio después de dichos cambios significa que acepta la Política de privacidad revisada.</p>
+                <h5>INFORMACIÓN QUE PODEMOS RECOGER DE USTED</h5>
+                <p>Cuando utiliza el Sitio, se recopilan dos tipos de información en relación con las Propiedades: Información de identificación personal (PII) y Otra información. La "información de identificación personal" es información que lo identifica a usted como individuo. "Otra información" es cualquier información que no revela su identidad específica. Otra información se trata por separado a continuación, bajo el título "OTRA INFORMACIÓN".</p>
+                <h5>CÓMO PODEMOS USAR LA INFORMACIÓN PERSONAL</h5>
+                <p>Nosotros y nuestros proveedores de servicios externos podemos usar la Información personal:</p>
+                <ul>
+                    <li>Para responder a sus consultas y cumplir con sus solicitudes, como enviarle boletines o brindarle información sobre nuestros productos y servicios.
+Para enviarle información administrativa, incluida información sobre los Sitios y cambios en nuestros términos, condiciones y políticas.</li>
+                    <li>Para completar su compra, por ejemplo, para procesar sus pagos, recibir su pedido, comunicarse con usted con respecto a su compra y brindarle un servicio al cliente.</li>
+                    <li>Para enviarle comunicaciones de marketing que creemos que pueden ser de su interés (incluidos, entre otros, nuestros proveedores de servicios externos que envían correos electrónicos y otros tipos de publicidad, como publicidad gráfica o publicidad patrocinada en los Sitios u otras propiedades, a aquellos cuyas direcciones de correo electrónico hemos recopilado).</li>
+                    <li>Para enviarle mensajes de texto SMS, si ha indicado que desea recibirlos. Tenga en cuenta que pueden aplicarse tarifas de mensajes y datos. Debe consultar con su proveedor de servicios móviles las tarifas de datos aplicables. En cualquier momento, puede enviar un mensaje de texto con la palabra "AYUDA" para obtener más información sobre los mensajes de texto o "PARAR" para cancelar la suscripción a dichos mensajes. Si se proporcionan reglas adicionales en relación con cualquier registro específico de mensajes de texto SMS, dichas reglas también se aplicarán y controlarán en caso de que entren en conflicto con esta Política de privacidad.</li>
+                    <li>Para personalizar su experiencia en el Sitio presentando productos y ofertas a su medida.</li>
+                    <li>Para permitirle participar en sorteos, concursos y promociones similares y administrar estas actividades. Algunas de estas actividades tienen reglas adicionales, que pueden contener información adicional sobre cómo usamos y divulgamos su información personal, por lo que le sugerimos que lea estas reglas cuidadosamente; en caso de conflicto entre dichas reglas y esta Política de privacidad, dichas reglas regirán.</li>
+                    <li>Para permitirle enviar mensajes (por ejemplo, clips de música o información del artista) a un amigo a través de las Propiedades. Al usar dicha funcionalidad, nos dice que tiene derecho a usar y nos proporciona el nombre y la dirección de correo electrónico de su amigo.</li>
+                    <li>Para nuestros fines comerciales, como análisis de datos, auditorías, desarrollo de nuevos productos, mejora del Sitio, mejora de nuestros servicios, identificación de tendencias de uso y determinación de la efectividad de las campañas promocionales.</li>
+                    <li>Para anunciar - para medir o comprender la efectividad de la publicidad que le servimos a usted y a otros, y para entregarle publicidad relevante.</li>
+                    <li>Como creemos que es necesario o apropiado: (a) según la ley aplicable, incluidas las leyes fuera de su país de residencia; (b) para cumplir con el proceso legal; (c) para responder a solicitudes de autoridades públicas o gubernamentales, incluidas autoridades públicas o gubernamentales fuera de su país de residencia; (d) para hacer cumplir nuestros términos y condiciones; (e) para proteger nuestras operaciones o las de cualquiera de nuestros afiliados o artistas; (f) para proteger nuestros derechos, privacidad, seguridad o propiedad, o la de nuestros afiliados, nuestros artistas, usted u otros; o (g) para permitirnos buscar remedios disponibles o limitar los daños que podamos sufrir
+Podemos combinar la PII que envíe en el Sitio o/a través de él con la información que recopilamos de usted y de usted de otras fuentes en línea y fuera de línea, incluidos nuestros propios sitios web y propiedades web (incluidas aplicaciones, widgets y reproductores) y fuentes de terceros , que puede incluir servicios de redes sociales con los que interactúa a través de nuestros Sitios. Tratamos dicha información combinada como Información personal siempre que sea tan combinada.</li>
+                </ul>
+                <h5>CÓMO SE PUEDE DIVULGAR LA INFORMACIÓN PERSONAL</h5>
+                <p>Su información personal puede ser revelada:</p>
+                <ul>
+                    <li>A nuestros proveedores de servicios externos (y en algunos casos, a nuestros afiliados) que brindan servicios como alojamiento, análisis de datos, procesamiento de pagos, cumplimiento de pedidos, provisión de infraestructura, servicios de TI, servicio al cliente, entrega de correo electrónico, procesamiento de tarjetas de crédito, auditoría, y otros servicios similares para permitirles proporcionar dichos servicios.</li>
+                    <li>A nuestros afiliados, para permitirles enviarle comunicaciones de marketing.</li>
+                    <li>A terceros no afiliados o sus proveedores, para permitirles enviar, o hacer que se envíen, comunicaciones de marketing a usted en medios en línea y fuera de línea.</li>
+                    <li>A nuestros artistas (incluidos los miembros de la banda de artistas, si corresponde) y sus representantes, para que los artistas y sus representantes puedan usar esta información para enviarle comunicaciones (incluidas comunicaciones de marketing) que consideren que puedan ser de su interés, que incluye, por ejemplo, si (a) se registra para unirse a la lista de correo del artista correspondiente y / o recibe los boletines del artista, (b) se registra en el sitio web del artista correspondiente, o (c) ha indicado que le gustaría para recibir información y / o comunicaciones de marketing del artista correspondiente. No controlamos ni somos responsables del uso de la información personal por parte de los artistas y sus representantes.</li>
+                    <li>A terceros que patrocinan concursos, sorteos y promociones similares.</li>
+                    <li>Para identificarlo ante cualquier persona a quien le envíe mensajes a través del Sitio
+Por usted, en o mediante tableros de mensajes, chat, páginas de perfil y blogs, y otros servicios en los que puede publicar información y materiales. Tenga en cuenta que cualquier información y material que publique o divulgue en un Sitio o a través de este se convertirá en información pública, y puede estar disponible para los visitantes de dicho Sitio y para el público en general, y puede redistribuirse a través de Internet y otros canales de medios donde llegará a un público aún más amplio. Le instamos a que tenga mucho cuidado al decidir divulgar su información personal, o cualquier otra información, en o/a través del Sitio. NO SOMOS RESPONSABLES POR EL USO O DIVULGACIÓN DE CUALQUIER INFORMACIÓN QUE DIVULGAS VOLUNTARIAMENTE A TRAVÉS DE CUALQUIER SITIO.</li>
+                    <li>A un tercero en caso de reorganización, fusión, venta, empresa conjunta, asignación, transferencia u otra disposición de todo o parte de nuestro negocio, activos o acciones (incluso en relación con una quiebra o procedimiento similar)</li>
+                    <li>A un artista relevante que ya no está afiliado a nosotros, si indicó interés en dicho artista (por ejemplo, al registrarse en el sitio web del artista)</li>
+                    <li>Como creemos que es necesario o apropiado: (a) según la ley aplicable, incluidas las leyes fuera de su país de residencia; (b) para cumplir con el proceso legal; (c) para responder a solicitudes de autoridades públicas o gubernamentales, incluidas autoridades públicas o gubernamentales fuera de su país de residencia;
+(d) para hacer cumplir nuestros términos y condiciones; (e) para proteger nuestras operaciones o las de cualquiera de nuestros afiliados o artistas; (f) para proteger nuestros derechos, privacidad, seguridad o propiedad, o la de nuestros afiliados, nuestros artistas, usted u otros; o (g) para permitirnos buscar remedios disponibles o limitar los daños que podamos sufrir.</li>
+                </ul>
+                <h5>nformación sensible</h5>
+                <p>Le pedimos que no nos envíe, y que no divulgue, ninguna información personal sensible (por ejemplo, números de seguridad social, información relacionada con el origen racial o étnico, opiniones políticas, religión u otras creencias, salud, antecedentes penales o afiliación sindical) en o/a través del Sitio o de otra manera para nosotros.</p>
+                <h5>OTRA INFORMACIÓN QUE PODEMOS RECOPILAR</h5>
+                <p>Con respecto a cada una de sus visitas a nuestro Sitio, podemos recopilar automáticamente la siguiente información: Información técnica, incluida la dirección IP, información de inicio de sesión, información de ubicación geográfica, tipo y versión del navegador, configuración de zona horaria, tipos y versiones de complementos del navegador, funcionamiento sistema y plataforma
+Información sobre su visita, incluida la secuencia completa de clics de URL hacia, a través y desde nuestro sitio (incluida la fecha y la hora)</p>
+                <p>Páginas que vio o buscó; tiempos de respuesta de la página, errores de descarga, duración de las visitas a ciertas páginas, información de interacción de la página (como desplazamiento, clics y pases del mouse) y métodos utilizados para navegar fuera de la página. </p>
+                <p>Los socios externos pueden recopilar información personal sobre sus actividades en línea a lo largo del tiempo y en sitios web de terceros o servicios en línea a través del uso del Sitio Consulte la sección "TECNOLOGÍAS DE SEGUIMIENTO" a continuación para obtener detalles sobre cómo se puede recopilar otra información.</p>
+                <h5>CÓMO SE PUEDE DIVULGAR OTRA INFORMACIÓN</h5>
+                <p>Tenga en cuenta que podemos usar y divulgar Otra información para cualquier propósito, excepto cuando la ley aplicable nos exija lo contrario. Si estamos obligados a tratar Otra información como información personal según la ley aplicable, entonces podemos usarla como se describe en la sección "Cómo podemos recopilar otra información" anterior, así como para todos los fines para los que usamos y divulgamos información personal. En algunos casos, podemos combinar Otra información con información personal (como combinar su nombre con su ubicación geográfica). Si combinamos cualquier otra información con información personal, la información combinada será tratada por nosotros como información personal siempre que se combine.</p>
+                <h5>TAMBIÉN PODEMOS DIVULGAR SU INFORMACIÓN CUANDO CREEMOS QUE LA DIVULGACIÓN ES APROPIADA PARA CUMPLIR CON LA LEY, HACER CUMPLIMIENTO DE NUESTRAS POLÍTICAS DEL SITIO, O PROTEGER NUESTROS U OTROS DERECHOS, PROPIEDADES O SEGURIDAD. SIN EMBARGO, SE PUEDE PROPORCIONAR OTRA INFORMACIÓN A OTRAS PARTES, INCLUYENDO, PERO SIN LIMITARSE A, PATROCINADORES, ETIQUETAS, GESTIÓN, SOCIOS, ARTISTAS O AGENTES PARA COMERCIALIZACIÓN, PUBLICIDAD U OTROS USOS, INCLUYENDO:</h5>
+                <ul>
+                    <li>Datos agregados o anónimos a anunciantes y redes publicitarias que requieren los datos para seleccionar y servir anuncios relevantes para usted y otros.</li>
+                    <li>Proveedores de análisis y motores de búsqueda que nos ayudan a mejorar y optimizar nuestro sitio, como los informes demográficos y de interés de Google Analytics, o sistemas similares de informes analíticos.</li>
+                    <li>Los datos recopilados de estas herramientas pueden incluir edad, género e intereses generales. Para darse de baja de este servicio, visite https://www.google.com/settings/ads.</li>
+                </ul>
+                <h5>CÓMO PROTEGEMOS SU INFORMACIÓN</h5>
+                <p>Implementamos una variedad de medidas de seguridad para mantener la seguridad de su información personal cuando realiza un pedido o ingresa, envía o accede a su información personal.</p>
+                <p>Ofrecemos el uso de un servidor seguro. Para la PII ingresada en un sitio de comercio relacionado con el Sitio donde se completan las compras, como mercadería, venta de boletos y ventas de álbumes, toda la información confidencial / crediticia suministrada se transmite a través de la tecnología Secure Socket Layer (SSL) y luego se cifra en nuestros proveedores de pasarela de pago 'la base de datos solo será accesible para aquellos autorizados con derechos especiales de acceso a dichos sistemas, y están obligados a mantener la información confidencial.</p>
+                <p>Después de una transacción, su información privada (tarjetas de crédito, números de seguro social, finanzas, etc.) no se almacenará en nuestros servidores.</p>
+                <h5>TECNOLOGÍAS DE SEGUIMIENTO</h5>
+                <p>El sitio utiliza tecnologías como etiquetas de píxeles, cookies y balizas. Las etiquetas de píxeles son pequeños fragmentos de código que proporcionan un método de entrega de información en una página web que permite al operador de la página o a un tercero recopilar información sobre los usuarios de la página. Las cookies son pequeños archivos de texto que se almacenan en el navegador de su computadora que identifican de manera única su navegador y proporcionan información al remitente de las cookies.</p>
+                <p>Utilizamos cookies para ayudarnos a comprender y guardar sus preferencias para futuras visitas, orientar y realizar un seguimiento de los anuncios, y compilamos datos agregados sobre el tráfico del sitio y la interacción del sitio para que podamos ofrecer mejores experiencias y herramientas en el futuro. En algunos de nuestros mensajes de correo electrónico, también podemos usar "URL de clic" o etiquetas de píxeles para determinar si el correo electrónico se ha abierto y para medir la efectividad de las comunicaciones de nuestros clientes. Estos datos también pueden usarse para medir su interés en temas particulares, para que podamos ofrecer una experiencia de usuario más relevante, personal y conveniente.</p>
+                <p>Podemos utilizar compañías de publicidad de terceros para recopilar datos y / o publicar anuncios cuando visita nuestro sitio web o aplicación. Estas compañías pueden usar información sobre sus visitas a este y otros sitios web o aplicaciones para proporcionar anuncios sobre productos y servicios que le interesen. Tenga en cuenta que la configuración de su navegador puede no permitirle controlar las tecnologías utilizadas por estas empresas de terceros. Si desea obtener más información sobre esta práctica y conocer sus opciones para que estas compañías no utilicen esta información, visite http://youronlinechoices.com/ o http://optout.aboutads.info/?c=2#. /.</p>
+                <p>Es posible que pueda cambiar la configuración de su navegador para rechazar las cookies o para avisarle cuando se haya colocado una cookie en su navegador. Verifique su navegador para más detalles. Puede visitar http://www.networkadvertising.org/choices/ para obtener información sobre cómo optar por no recibir publicidad dirigida.</p>
+                <p>Si no desea que se recopile información mediante el uso de cookies, existe un procedimiento simple en la mayoría de los dispositivos a través del cual se accede al Sitio que le permite rechazar el uso de cookies. Para obtener más información sobre las cookies, visite http://www.allaboutcookies.org/. Si elige rechazar las cookies, algunas o todas las características, funcionalidades y promociones disponibles a través del Sitio pueden no estar disponibles para usted.</p>
+                <h5>ENLACES DE TERCEROS</h5>
+                <p>Ocasionalmente, a nuestro criterio, podemos incluir u ofrecer productos o servicios de terceros en nuestro sitio web. Estos sitios de terceros tienen políticas de privacidad separadas e independientes. Por lo tanto, no tenemos responsabilidad u obligación por el contenido y las actividades de estos sitios vinculados. No obstante, buscamos proteger la integridad de nuestro Sitio y agradecemos cualquier comentario sobre estos sitios de terceros.</p>
+                <h5>REDES SOCIALES</h5>
+                <p>Nuestro sitio puede incluir funciones de redes sociales, como el botón Me gusta de Facebook. Estas características pueden recopilar su dirección IP, qué página está visitando en nuestro sitio, y pueden establecer una cookie para permitir que la función funcione correctamente. Las características y widgets de las redes sociales están alojadas por un tercero o directamente en nuestro sitio. Sus interacciones con estas características se rigen por la política de privacidad de la empresa que las proporciona.</p>
+                <p>Es posible que pueda iniciar sesión en nuestro sitio utilizando servicios de inicio de sesión como Facebook Connect o un proveedor de Open ID. Estos servicios autenticarán su identidad y le brindarán la opción de compartir cierta información personal con nosotros, como su nombre y dirección de correo electrónico, para completar previamente nuestro formulario de registro.
+Servicios como Facebook Connect le dan la opción de publicar información sobre sus actividades en este sitio web en su página de perfil para compartir con otros dentro de su red.</p>
+                <h5>USUARIOS DE SITIOS EN EL ÁREA ECONÓMICA EUROPEA</h5>
+                <p>Esta sección de esta Política de privacidad se aplica solo si utiliza el Sitio desde un país que es un Estado miembro del Espacio Económico Europeo, y complementa la información en esta Política de privacidad.</p>
+                <p>Base legal para el procesamiento de datos: procesamos datos personales para los fines establecidos en esta Política de privacidad, como se describe anteriormente. Nuestra base legal para procesar datos personales incluye el procesamiento que es: necesario para el cumplimiento del contrato entre usted y nosotros (por ejemplo, para proporcionarle los servicios que solicita e identificarlo y autenticarlo para que pueda usar el Sitio); necesario para cumplir con los requisitos legales (por ejemplo, para cumplir con las normas contables aplicables y para hacer divulgaciones obligatorias a las fuerzas del orden público); necesario para nuestros intereses legítimos (por ejemplo, para gestionar nuestra relación con usted y mejorar el Sitio); y con el consentimiento de nuestros clientes (por ejemplo, para comunicarnos con usted sobre nuestros productos y servicios y proporcionarle información de marketing), que posteriormente puede retirarse en cualquier momento (mediante el uso de configuraciones de preferencia en correos electrónicos o en nuestros Sitios, o enviando un correo electrónico nosotros como se establece en la sección Contáctenos) sin afectar la legalidad del procesamiento basado en el consentimiento antes de su retiro.</p>
+                <p>En algunos casos, es posible que deba proporcionarnos datos personales para el procesamiento como se describe anteriormente, para que podamos proporcionarle el uso de todas las funciones del Sitio.</p>
+                <h5>Transferencias internacionales</h5>
+                <p>Si compartimos sus datos personales de acuerdo con esta Política de privacidad, puede implicar la transferencia de sus datos fuera del Espacio Económico Europeo (EEE). Cada vez que transferimos sus datos personales fuera del EEE, nos aseguramos de que se le brinde un grado de protección similar al garantizar, cuando lo exija la ley, que se implemente al menos una de las siguientes salvaguardas:</p>
+                <ul>
+                    <li>Transferir datos personales a países que la Comisión Europea ha considerado que proporcionan un nivel adecuado de protección de datos personales.</li>
+                    <li>utilizando contratos específicos aprobados por la Comisión Europea que otorgan a los datos personales la misma protección que tienen en Europa; o
+transferir datos personales a los Estados Unidos de América a una entidad si forman parte del Escudo de privacidad, lo que requiere que brinden una protección similar a los datos personales compartidos entre Europa y los Estados Unidos de América.</li>
+                    <li>Puede tener derecho, de conformidad con la ley aplicable, a solicitar una copia de las salvaguardas relevantes contactando con nosotros como se describe en la sección "Contáctenos".</li>
+                </ul>
+                <h5>Contactando con nosotros</h5>
+                <p>Si tiene alguna pregunta sobre esta Política de privacidad, contáctenos por correo electrónico a <a href="mailto:info@raro-co.com">info@raro-co.com</a> o escriba a la siguiente dirección:</p>
+                <p>12098 SW 197 Avenue<br />
+                Miami, FL 33196<br />
+                A la atención de: Coordinador de Privacidad<br /></p>
+                <p>Tenga en cuenta que las comunicaciones por correo electrónico no siempre son seguras, por lo tanto, no incluya información de tarjeta de crédito u otra información confidencial en sus mensajes de correo electrónico.</p>
+            </article>
+            </div>
+          </div>
+        </div>
+      </section>
+<?php get_footer(); ?>

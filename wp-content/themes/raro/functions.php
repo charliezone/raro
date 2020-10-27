@@ -4,6 +4,15 @@ function raro_setup(){
     add_theme_support( 'post-thumbnails' );
 }
 
+add_action('after_setup_theme', 'raro_theme_setup');
+ 
+/**
+ * Load translations for raro_theme
+ */
+function raro_theme_setup(){
+    load_theme_textdomain('raro', get_template_directory() . '/languages');
+}
+
 function raro_styles_scripts() {
     wp_enqueue_style( 'font-oswald', 'https://fonts.googleapis.com/css?family=Oswald:300,400,700');
     wp_enqueue_style( 'font-montserrat', 'https://fonts.googleapis.com/css?family=Montserrat:400,700');

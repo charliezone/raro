@@ -37,13 +37,13 @@
 
     <!-- Header -->
 
-    <header id="top" class="<?php echo (is_page('home')) ? 'header-home' : 'header-inner' ?>">
+    <header id="top" class="<?php echo (is_page('home') || is_page('inicio')) ? 'header-home' : 'header-inner' ?>">
       <div class="brand-panel">
         <a href="<?php echo site_url(); ?>" class="brand js-target-scroll">
           <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="RaRo Logo">
         </a>
         <div class="brand-name">RaRo</div>
-        <?php if(is_page('home')): ?>
+        <?php if(is_page('home') || is_page('inicio')): ?>
         <div class="slide-number">
           <span class="current-number text-primary">0<span class="count">1</span></span>
           <sup><span class="delimiter">/</span> 0<span class="total-count"></span></sup>
@@ -54,7 +54,7 @@
       <div class="vertical-panel"></div>
       <div class="vertical-panel-content">
         <div class="vertical-panel-info">
-            <div class="vertical-panel-title">Raro agency</div>
+            <div class="vertical-panel-title"><?php _e('Raro agency', 'raro') ?></div>
             <div class="line"></div>
          </div>
         <ul class="social-list">
@@ -73,24 +73,25 @@
             <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="RaRo Logo">
           </a>
           <ul class="navbar-desctop-menu">
-            <?php if(is_page('home')): ?>
+            <?php if(is_page('home') || is_page('inicio')): ?>
             <li>
-                <a href="#about" class="js-target-scroll">About us</a>
+                <a href="#about" class="js-target-scroll"><?php _e('About us', 'raro') ?></a>
             </li>
             <li>
-              <a href="#our-team" class="js-target-scroll">Our Team</a>
+              <a href="#our-team" class="js-target-scroll"><?php _e('Our Team', 'raro') ?></a>
             </li>
             <li>
-              <a href="#services" class="js-target-scroll">Services</a>
+              <a href="#services" class="js-target-scroll"><?php _e('Services', 'raro') ?></a>
             </li>
             <?php else: ?>
             <li>
-              <a href="<?php echo site_url() ?>">Home</a>
+              <a href="<?php echo site_url() ?>"><?php _e('Home', 'raro') ?></a>
             </li>
             <?php endif ?>
             <li>
-              <a href="#contact" class="js-target-scroll">Contact</a>
+              <a href="#contact" class="js-target-scroll"><?php _e('Contact', 'raro') ?></a>
             </li>
+            <?php pll_the_languages(array('show_flags' => 1, 'show_names' => 0)); ?>
           </ul>
         </div>
       </nav>
@@ -113,24 +114,25 @@
 
         <div class="collapse navbar-collapse" id="navbar-mobile"> 
           <ul class="navbar-nav-mobile">
-            <?php if(is_page('home')): ?>
+            <?php if(is_page('home') || is_page('inicio')): ?>
             <li>
-                <a href="#about" class="js-target-scroll">About us</a>
+                <a href="#about" class="js-target-scroll"><?php _e('About us', 'raro') ?></a>
             </li>
             <li>
-              <a href="#our-team" class="js-target-scroll">Our Team</a>
+              <a href="#our-team" class="js-target-scroll"><?php _e('Our Team', 'raro') ?></a>
             </li>
             <li>
-              <a href="#services" class="js-target-scroll">Services</a>
+              <a href="#services" class="js-target-scroll"><?php _e('Services', 'raro') ?></a>
             </li>
             <?php else: ?>
             <li>
-              <a href="<?php echo site_url() ?>">Home</a>
+              <a href="<?php echo site_url() ?>"><?php _e('Home', 'raro') ?></a>
             </li>
             <?php endif ?>
             <li>
-              <a href="#contact" class="js-target-scroll">Contact</a>
+              <a href="#contact" class="js-target-scroll"><?php _e('Contact', 'raro') ?></a>
             </li>
+            <?php pll_the_languages(array('show_flags' => 1, 'show_names' => 0)); ?>
           </ul>
         </div>
       </nav> 

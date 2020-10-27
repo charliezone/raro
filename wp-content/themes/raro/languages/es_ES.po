@@ -1,0 +1,657 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-10-27 18:30-0400\n"
+"PO-Revision-Date: 2020-10-27 18:30-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: footer.php:6
+msgid "Get <span class=\"text-primary\">in touch</span>"
+msgstr "Estamos <span class=\"text-primary\">en contacto</span>"
+
+#: footer.php:7 header.php:92 header.php:133
+msgid "Contact"
+msgstr "Contacto"
+
+#: footer.php:38
+msgid "Privacy Notice"
+msgstr "Política de privacidad"
+
+#: footer.php:42
+msgid "All Rights Reserved"
+msgstr "Todos los derechos reservados"
+
+#: header.php:57
+msgid "Raro agency"
+msgstr "Agencia RaRo"
+
+#: header.php:78 header.php:119
+msgid "About us"
+msgstr "Nosotros"
+
+#: header.php:81 header.php:122 page-home.php:643
+msgid "Our Team"
+msgstr "Equipo"
+
+#: header.php:84 header.php:125
+msgid "Services"
+msgstr "Servicios"
+
+#: header.php:88 header.php:129
+msgid "Home"
+msgstr "Inicio"
+
+#: index.php:11
+msgid "Blog"
+msgstr "Noticias"
+
+#: page-home.php:10
+msgid "Prev"
+msgstr "Ant"
+
+#: page-home.php:12
+msgid "Next"
+msgstr "Sig"
+
+#: page-home.php:47
+msgid "DON’T ASK PERMISSION TO FLY"
+msgstr "No pidas permiso para triunfar"
+
+#: page-home.php:63
+msgid ""
+"Limiting yourself because you’re unsure<br/>of your success and fear failure "
+"is the wrong attitude.<br/>Trust us and trust yourself, lets reach higher"
+msgstr ""
+"Limitarte porque no estas seguro del éxito<br/>y tienes miedo al fracaso, es "
+"una mala actitud.<br/>Confiá en nosotros y en ti mismo,<br/>juntos "
+"conquistaremos la victoria"
+
+#: page-home.php:83 page-home.php:151 page-home.php:219 page-home.php:287
+msgid "Contact us"
+msgstr "Contactar"
+
+#: page-home.php:114
+msgid "IF YOU WANT IT<br />COME AND GET IT"
+msgstr "Si lo quieres<br />ven y tomalo"
+
+#: page-home.php:131
+msgid ""
+"It’s all about what you want and your commitment to it.<br />There is "
+"nothing impossible. It’s all up to you.<br />And you found us"
+msgstr ""
+"Todo es acerca de lo que quieres<br />y el compromiso que tengas para "
+"lograrlo<br />No hay nada imposible. El éxito depende de ti.<br />Y lo "
+"encontraras con nosotros"
+
+#: page-home.php:182
+msgid "WHAT ARE YOU AFRAID OF?"
+msgstr "¿A que le temes?"
+
+#: page-home.php:199
+msgid ""
+"Use your fear to push your business forward.<br />Be know. be found and "
+"break the barriers.<br />We’re here to back you up"
+msgstr ""
+"Usa tus temores para impulsar tu negocio.<br />Date a conocer. Se encontrado "
+"y rompe con los esquemas.<br />Nosotros te apoyamos"
+
+#: page-home.php:250
+msgid "ARE YOU READY<br />TO RUMBLE?"
+msgstr "¿Estas listo<br />para el baile?"
+
+#: page-home.php:267
+msgid ""
+"Let’s do it, head over to contact us<br />and honor us with your trust!<br /"
+">We’ll grow together!"
+msgstr ""
+"Hagámoslo, dirígete a nosotros<br />y hónranos con tu verdad.<br /"
+">Creceremos juntos!"
+
+#: page-home.php:302
+msgid "About <span class=\"text-primary\">Us</span>"
+msgstr "Nuestro <span class=\"text-primary\">Equipo</span>"
+
+#: page-home.php:303
+msgid "About"
+msgstr "Nosotros"
+
+#: page-home.php:308
+msgid "We turn ideas into works of art"
+msgstr "Convertimos las ideas en arte"
+
+#: page-home.php:310
+msgid ""
+"RaRo Company is a young multimedia agency backed by a very experienced crew. "
+"With a fresh and visionary character based on a solid business model, where "
+"our team restlessly work on our clients and associates goals"
+msgstr ""
+"RaRo Company es una joven agencia multimedia respaldada por un equipo con "
+"mucha experiencia. Con un carácter fresco y visionario en un modelo de "
+"negocios, donde nuestro equipo trabaja sin descanso en base a las metas de "
+"nuestros clientes y asociados"
+
+#: page-home.php:311
+msgid ""
+"We know we must wear different hats to meet individual’s needs. And we are "
+"ready to accept the challenges. “No” is not a word in our vocabulary. We "
+"plan, we build, we succeed. And we do it quick"
+msgstr ""
+"Sabemos que tenemos que usar diferentes sombreros, para cumplir las "
+"necesidades individuales. Y estamos listos para aceptar los retos. No es una "
+"palabra que no existe en nuestro vocabulario.  Nosotros planeamos, "
+"construimos y triunfamos. Y lo hacemos rápido"
+
+#: page-home.php:312
+msgid "The trust of our clients, is our highest pride"
+msgstr "La confianza de nuestros clientes, es nuestro mayor orgullo"
+
+#: page-home.php:316
+msgid "Our<br>specialization"
+msgstr "Nos especializamos en"
+
+#: page-home.php:319
+msgid "Music"
+msgstr "Música"
+
+#: page-home.php:323
+msgid "Talent"
+msgstr "Talento"
+
+#: page-home.php:327
+msgid "Business"
+msgstr "Negocios"
+
+#: page-home.php:331
+msgid "Marketing"
+msgstr "Marketing"
+
+#: page-home.php:347
+msgid "Our <span class=\"text-primary\">Services</span>"
+msgstr "Nuestros <span class=\"text-primary\">Servicios</span>"
+
+#: page-home.php:352 page-home.php:354 page-home.php:358 page-home.php:730
+msgid "Music Production"
+msgstr "Producción musical"
+
+#: page-home.php:367 page-home.php:369 page-home.php:373 page-home.php:746
+msgid "Music Distribution"
+msgstr "Distribución musical"
+
+#: page-home.php:382 page-home.php:384 page-home.php:388 page-home.php:762
+msgid "Talent Development"
+msgstr "Desarrollo de talento"
+
+#: page-home.php:397 page-home.php:399 page-home.php:403 page-home.php:778
+msgid "Music Marketing"
+msgstr "Marketing musical"
+
+#: page-home.php:412 page-home.php:414 page-home.php:418 page-home.php:794
+msgid "Talent Management"
+msgstr "Gestión de talento"
+
+#: page-home.php:427 page-home.php:429 page-home.php:433 page-home.php:810
+msgid "Business Development"
+msgstr "Desarrollo de negocios"
+
+#: page-home.php:442 page-home.php:444 page-home.php:448 page-home.php:826
+msgid "Business Restructure"
+msgstr "Reestructuración de negocio"
+
+#: page-home.php:457 page-home.php:459 page-home.php:463 page-home.php:842
+msgid "Business Marketing"
+msgstr "Marketing"
+
+#: page-home.php:472 page-home.php:474 page-home.php:478 page-home.php:858
+msgid "Graphic Design"
+msgstr "Diseño grafico"
+
+#: page-home.php:487 page-home.php:489 page-home.php:493 page-home.php:874
+msgid "Content Distribution"
+msgstr "Distribución de contenido"
+
+#: page-home.php:502 page-home.php:504 page-home.php:508 page-home.php:890
+msgid "Release Strategy"
+msgstr "Estrategia de lanzamiento"
+
+#: page-home.php:517 page-home.php:519 page-home.php:523 page-home.php:906
+msgid "Paid Campaigns"
+msgstr "Campañas de pago"
+
+#: page-home.php:532 page-home.php:534 page-home.php:538 page-home.php:922
+msgid "Branding"
+msgstr "Branding"
+
+#: page-home.php:547 page-home.php:549 page-home.php:553 page-home.php:938
+msgid "Social Media Management"
+msgstr "Gestión de redes sociales"
+
+#: page-home.php:562 page-home.php:564 page-home.php:568 page-home.php:954
+msgid "Audiovisuals"
+msgstr "Audiovisuales"
+
+#: page-home.php:585
+msgid "30 years of services"
+msgstr "30 años de servicio"
+
+#: page-home.php:587
+msgid ""
+"<span class=\"text-primary\">Years of successful work</span><br> in the "
+"market"
+msgstr ""
+"<span class=\"text-primary\">Años de trabajo exitoso</span><br>en el mercado"
+
+#: page-home.php:596
+msgid "Our <span class=\"text-primary\">clients</span>"
+msgstr "Nuestros <span class=\"text-primary\">clientes</span>"
+
+#: page-home.php:597
+msgid "clients"
+msgstr "clientes"
+
+#: page-home.php:634
+msgid "Work together"
+msgstr "Trabajemos juntos"
+
+#: page-home.php:642
+msgid "Our <span class=\"text-primary\">Team</span>"
+msgstr "Nuestro <span class=\"text-primary\">Equipo</span>"
+
+#: page-home.php:650
+msgid "Herling Founder & Ceo"
+msgstr "Herling Fundadora y Directora"
+
+#: page-home.php:654 page-home.php:665
+msgid "Founder & Ceo"
+msgstr "Fundadora y Directora"
+
+#: page-home.php:661
+msgid "Ariel Founder & Ceo"
+msgstr "Ariel Fundador y Director"
+
+#: page-home.php:672
+msgid "Eduardo Marketing Ceo"
+msgstr "Eduardo Director de Marketing"
+
+#: page-home.php:676
+msgid "Marketing Ceo"
+msgstr "Director de Marketing"
+
+#: page-home.php:683
+msgid "Carlos Rafael Lead Web Developer"
+msgstr "Carlos Rafael Desarrollador Principal"
+
+#: page-home.php:687
+msgid "Lead Web Developer"
+msgstr "Desarrollador Principal"
+
+#: page-home.php:697
+msgid "Joshua Social Media Manager"
+msgstr "Joshua Gestor de Redes Sociales"
+
+#: page-home.php:701
+msgid "Social Media Manager"
+msgstr "Gestor de Redes Sociales"
+
+#: page-home.php:708
+msgid "Ricardo Arranger"
+msgstr "Ricardo Arreglista"
+
+#: page-home.php:712
+msgid "Arranger"
+msgstr "Arreglista"
+
+#: page-home.php:731
+msgid ""
+"We oversee and manage the sound recording and production of our artists to "
+"ensure you present top quality material as well as audiovisuals. We cover "
+"instruments, beats, mixing and master, all handled with extreme care to "
+"satisfy your most demanding audience"
+msgstr ""
+"Supervisamos y gestionamos la grabación de sonido y la producción de "
+"nuestros artistas para asegurarnos que presenten material y audiovisuales de "
+"primera calidad"
+
+#: page-home.php:747
+msgid ""
+"It’s crucial to promoting music. Your music will be at the fingertip of your "
+"fans. As easy as it sounds, it’s not. Among all the details to address is "
+"collecting all your royalties, even those you didn’t even know about"
+msgstr ""
+"Es importante la promoción. Su música vivirá en el corazón de sus fans. Sera "
+"tan fácil como lo oye, no? Entre todos los detalles que debe abordar está el "
+"cobro de todas sus regalías, incluso aquellas que ni siquiera conocía"
+
+#: page-home.php:763
+msgid ""
+"Is the carterpillar to butterfly transition.  You will have personalized "
+"support to build a professional career in the entertainment industry.  You "
+"bring in your talent and dreams, we do the rest"
+msgstr ""
+"Es la transición de oruga a mariposa. Usted contara con asistencia "
+"personalizada para construir su carrera profesional en la industria del "
+"entretenimiento"
+
+#: page-home.php:779
+msgid ""
+"Marketing and promotion are the processes of letting your audience know "
+"you’re here to stay and make history together. It’s an art that requires "
+"numerous hours of effort and planification. We’re great at it"
+msgstr ""
+"El marketing y la promoción son los procesos que le permiten a su audiencia "
+"conocer que estas presente y hacer historia juntos. Es un arte que requiere "
+"numerosas horas de esfuerzo y planificación. Somo los mejores en eso"
+
+#: page-home.php:795
+msgid ""
+"An artist needs a representative, an advisor to asssist in your growth and "
+"handle not only your public relations, but negotiations and coordinations as "
+"well.  We’ve got you"
+msgstr ""
+"Un artista necesita representación, un consultor que le asista en su "
+"crecimiento y gestión, no solo en sus relaciones publicas, si no también en "
+"negociaciones y coordinaciones. Estamos con usted"
+
+#: page-home.php:811
+msgid ""
+"Being an entrepreneaur is a constant challenge. Walk with us in your start "
+"up process and will walk with you the path of quick growth and success"
+msgstr ""
+"Ser un emprendedor es un reto constante. Estamos con usted desde el "
+"principio y estaremos en el camino para apoyarlo con el crecimiento y éxito"
+
+#: page-home.php:827
+msgid ""
+"Businesses have many external factors that affect the growth and success "
+"process and is not always a good idea to be self sufficient. We create a "
+"rescue plan by restructuring certain or all areas of the business to put it "
+"back on track"
+msgstr ""
+"Los negocios tienen muchos factores externos que afectan el proceso del "
+"éxito y crecimiento, no siempre es buena idea transitar solo por este "
+"proceso. Creamos un plan de rescate donde reestructuramos ciertas o todas "
+"las áreas del negocio para sacarlo a flote otra vez"
+
+#: page-home.php:843
+msgid ""
+"You may continue to believe advertising is not needed in your business and "
+"that’s ok if you don’t want to grow, but if you’re set on reaching higher, "
+"marketing and promoting is the only way you will be known and found. Our "
+"team has many years of experience in the field"
+msgstr ""
+"Puede que usted siga pensando que la publicidad no es necesaria en su "
+"negocio y eso esta bien si usted no desea crecer, pero si llegar lejos, el "
+"marketing y la promoción es el único camino para que lo conozcan y encuentren"
+
+#: page-home.php:859
+msgid ""
+"We love to show off our graphic designers talents. They’re an important "
+"piece in our team and they will dress you up for victory"
+msgstr ""
+"Encantados de demostrarle el talento de nuestros diseñadores. Son una pieza "
+"importante en nuestro equipo que sin duda lo conducirán a la victoria"
+
+#: page-home.php:875
+msgid ""
+"Coco Chanel said; \"In order to be irreplaceable one must always be different"
+"\" and our content team abides by it"
+msgstr ""
+"Como dijo Coco Chanel: ¨Con el objetivo de ser irreemplazable uno siempre "
+"debe ser diferente¨ y nuestro equipo de gestión de contenido lo demostrara"
+
+#: page-home.php:891
+msgid ""
+"\"Release\" is a \"big\" word and that’s why it must be mafnificent. We "
+"cover all areas of the release and make sure you boom"
+msgstr ""
+"¨Lanzamiento¨ es una palabra ¨Mayor¨ y es por eso que debe de ser "
+"engrandecida. Cubrimos todas las areas de lanzamiento asegurándonos que sean "
+"exitosos"
+
+#: page-home.php:907
+msgid ""
+"There may be necessary to give it you a little push and we know exactly how "
+"to target the correct campaign"
+msgstr ""
+"Puede que sea necesario darles un empujoncito y sabemos exactamente como "
+"hacerlo"
+
+#: page-home.php:923
+msgid ""
+"Your brand will be created and promoted as soon as we define it by relevance "
+"depending on the scenario and intended target audience"
+msgstr ""
+"Su marga sera creada y promocionada tan pronto como definamos la relevancia, "
+"y la audiencia especifica a la que llegar"
+
+#: page-home.php:939
+msgid ""
+"Digital era has brought us together and now, more than ever you need to "
+"engage with your audience and our social media team is passionate about it. "
+"We will develop the best strategy to approach your relationship"
+msgstr ""
+"La era digital no une y ahora mas que nunca necesita relacionarse con su "
+"audiencia, nuestro apasionado equipo de gestores de redes sociales lo "
+"ayudara a hacerlo. Desarrollaremos juntos la mejor estrategia para lograrlo"
+
+#: page-home.php:955
+msgid ""
+"They are an essential part of promoting. They current need for visualization "
+"is at its top level and that need must be fed. Our audiovisuals team "
+"conforms of amazing artists and professionals to create music videos, "
+"business presentation videos, advertising spots from beginning to end. It "
+"doesn’t matter if you’re an artist, an influencer, a business, the need is "
+"still the same"
+msgstr ""
+"Son partes esenciales de la promoción. La necesidad actual de visualización "
+"alcanza sus máximos niveles y esa necesidad necesita ser alimentada. Nuestro "
+"equipo de audiovisuales conformado por artistas y profesionales producen "
+"videos musicales, comerciales. No importa si eres artista, influencer o "
+"empresario, la necesidad es la misma"
+
+#~ msgid "Privacy Policy"
+#~ msgstr "Política de privacidad"
+
+#~ msgid "Last Updated and Effective as of"
+#~ msgstr "Última actualización y vigencia a partir del"
+
+#~ msgid ""
+#~ "This website is operated by RaRo Company, and their partners "
+#~ "(collectively, “we,” “us” or “our”), who is a data controller responsible "
+#~ "for the processing of personal data under applicable data protection law"
+#~ msgstr ""
+#~ "Este sitio web es operado por RaRo Company y sus socios (colectivamente, "
+#~ "\"nosotros\", \"nos\" o \"nuestro\"), que es un controlador de datos "
+#~ "responsable del procesamiento de datos personales según la ley de "
+#~ "protección de datos aplicable"
+
+#~ msgid ""
+#~ "This Privacy Policy (“Policy”) explains our online information practices "
+#~ "and the kinds of information we may collect as a result of your "
+#~ "interaction with us through the websites on which this Policy is posted, "
+#~ "including the websites that you may access using your mobile electronic "
+#~ "device (collectively, “Sites”) and the services provided through the "
+#~ "Sites (“Services”). This Policy also explains how we intend to use and "
+#~ "share that information, how we protect that information, and how you can "
+#~ "opt out of a use or correct or change such information"
+#~ msgstr ""
+#~ "Esta Política de Privacidad (\"Política\") explica nuestras prácticas de "
+#~ "información en línea y los tipos de información que podemos recopilar "
+#~ "como resultado de su interacción con nosotros a través de los sitios web "
+#~ "en los que se publica esta Política, incluidos los sitios web a los que "
+#~ "puede acceder utilizando su dispositivo móvil electrónico dispositivo "
+#~ "(colectivamente, \"Sitios\") y los servicios prestados a través de los "
+#~ "Sitios (\"Servicios\"). Esta Política también explica cómo pretendemos "
+#~ "usar y compartir esa información, cómo protegemos esa información y cómo "
+#~ "puede optar por no usarla o corregirla o cambiarla"
+
+#~ msgid ""
+#~ "This Policy does not apply to any third-party websites, services or "
+#~ "applications, even if they are accessible through our Services. All "
+#~ "individuals whose responsibilities include the Processing of Personal "
+#~ "Information on behalf of us are expected to protect that data by "
+#~ "adherence to this Privacy Policy. This Privacy Policy is intended to meet "
+#~ "requirements globally, including those in North America, Europe, APAC, "
+#~ "and other jurisdictions"
+#~ msgstr ""
+#~ "Esta Política no se aplica a sitios web, servicios o aplicaciones de "
+#~ "terceros, incluso si son accesibles a través de nuestros Servicios. Se "
+#~ "espera que todas las personas cuyas responsabilidades incluyan el "
+#~ "procesamiento de información personal en nuestro nombre, protejan esos "
+#~ "datos mediante el cumplimiento de esta Política de Privacidad. Esta "
+#~ "Política de Privacidad está destinada a cumplir los requisitos a nivel "
+#~ "mundial, incluidos los de Estados Unidos de América, Europa, APAC y otras "
+#~ "jurisdicciones"
+
+#~ msgid "CONSENT TO PROCESSING"
+#~ msgstr "CONSENTIMIENTO PARA EL PROCESAMIENTO"
+
+#~ msgid ""
+#~ "Our Sites are operated in the United States. If you are located in the "
+#~ "European Union, Canada or elsewhere outside the United States, please be "
+#~ "aware that information we collect will be transferred to and processed in "
+#~ "the United States. By using our Sites, or providing us with any "
+#~ "information, you fully understand and unambiguously consent to this "
+#~ "transfer, processing and storage of your information in the United "
+#~ "States, a jurisdiction in which the privacy laws may not be as "
+#~ "comprehensive as those in the country where you reside and/or are a "
+#~ "citizen"
+#~ msgstr ""
+#~ "Nuestros sitios funcionan en Estados Unidos de América. Si se encuentra "
+#~ "en la Unión Europea, Canadá u otro lugar fuera de Estados Unidos de "
+#~ "América, tenga en cuenta que la información que recopilamos será "
+#~ "transferida y procesada en los Estados Unidos de América. Al usar "
+#~ "nuestros Sitios, o al proporcionarnos cualquier información, usted "
+#~ "comprende completamente y acepta sin ambigüedades esta transferencia, "
+#~ "procesamiento y almacenamiento de su información en los Estados Unidos de "
+#~ "América, una jurisdicción en la que las leyes de privacidad pueden no ser "
+#~ "tan completas como las del país donde reside y / o es ciudadano"
+
+#~ msgid "PROTECTION FOR CHILDREN – COPPA COMPLIANCE"
+#~ msgstr "PROTECCIÓN PARA NIÑOS - CUMPLIMIENTO COPPA"
+
+#~ msgid ""
+#~ "The Children’s Online Privacy Protection Act (“COPPA”) imposes certain "
+#~ "requirements upon websites and online services that are directed toward "
+#~ "children. We are committed to protecting children’s online privacy and "
+#~ "complying fully with COPPA. We do not collect any personally identifiable "
+#~ "information anywhere on the Sites except where expressly stated. We "
+#~ "believe that children should be able to use the Internet in a safe, "
+#~ "productive and efficient manner and should be afforded the highest "
+#~ "protection available with respect to their personal information. To that "
+#~ "end, we only ask for adults’ personally identifiable information. We do "
+#~ "not knowingly collect any individually identifiable information from "
+#~ "users under the age of 13 anywhere on the Sites. If we become aware that "
+#~ "a child under the age of 13 has submitted his or her personally "
+#~ "identifiable information, we will delete such information immediately"
+#~ msgstr ""
+#~ "La Ley de protección de la privacidad en línea para niños (\"COPPA\") "
+#~ "impone ciertos requisitos a los sitios web y servicios en línea que están "
+#~ "dirigidos a los niños. Estamos comprometidos a proteger la privacidad en "
+#~ "línea de los niños y a cumplir plenamente con COPPA. No recopilamos "
+#~ "ninguna información de identificación personal en ningún lugar de los "
+#~ "Sitios, excepto donde se indique expresamente. Creemos que los niños "
+#~ "deberían poder usar Internet de manera segura, productiva y eficiente, y "
+#~ "deberían tener la mayor protección disponible con respecto a su "
+#~ "información personal. Con ese fin, solo solicitamos información de "
+#~ "identificación personal de los adultos. No recopilamos a sabiendas "
+#~ "ninguna información de identificación individual de usuarios menores de "
+#~ "13 años en ningún lugar de los Sitios. Si nos damos cuenta de que un niño "
+#~ "menor de 13 años ha presentado su información de identificación personal, "
+#~ "eliminaremos dicha información de inmediato"
+
+#~ msgid ""
+#~ "Visit http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html "
+#~ "for information from the Federal Trade Commission about COPPA and "
+#~ "protecting children’s privacy online"
+#~ msgstr ""
+#~ "Visite http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html "
+#~ "para obtener información de la Comisión Federal de Comercio sobre COPPA y "
+#~ "la protección de la privacidad de los niños en línea"
+
+#~ msgid "YOUR CALIFORNIA PRIVACY RIGHTS"
+#~ msgstr "SUS DERECHOS DE PRIVACIDAD DE CALIFORNIA"
+
+#~ msgid ""
+#~ "If you are a California resident, you may request certain information "
+#~ "once per year about our disclosure of certain categories of Personal "
+#~ "Information during the preceding calendar year to third parties for such "
+#~ "third parties’ own direct marketing purposes. Please send your request by "
+#~ "email to <a href=\"mailto:info@raro-co.com\">info@raro-co.com</a> , Attn: "
+#~ "Privacy Coordinator. We reserve our right not to respond to requests "
+#~ "submitted other than to the email specified in this section"
+#~ msgstr ""
+#~ "Si es residente de California, puede solicitar cierta información una vez "
+#~ "al año sobre nuestra divulgación de ciertas categorías de información "
+#~ "personal durante el año calendario anterior a terceros para los fines de "
+#~ "marketing directo de dichos terceros. Envíe su solicitud por correo "
+#~ "electrónico a info@raro-co.com atención Coordinador de Privacidad. Nos "
+#~ "reservamos el derecho de no responder a las solicitudes enviadas que no "
+#~ "sea a la dirección de correo electrónico o de correo especificadas en "
+#~ "esta sección"
+
+#~ msgid "UPDATES TO THIS PRIVACY POLICY"
+#~ msgstr "ACTUALIZACIONES DE ESTA POLÍTICA DE PRIVACIDAD"
+
+#~ msgid ""
+#~ "We may change this Privacy Policy at any time. Please take a look at the "
+#~ "“LAST UPDATED” legend at the top of this page to see when this Privacy "
+#~ "Policy was last revised. Any changes to this Privacy Policy will become "
+#~ "effective when we make the revised Privacy Policy available on or through "
+#~ "a Site. Your use of such Site or your submission of any information in "
+#~ "connection with such Site following such changes means that you accept "
+#~ "the revised Privacy Policy"
+#~ msgstr ""
+#~ "Podemos cambiar esta Política de privacidad en cualquier momento. "
+#~ "Consulte la leyenda \"ÚLTIMA ACTUALIZACIÓN\" en la parte superior de esta "
+#~ "página para ver cuándo se revisó por última vez esta Política de "
+#~ "Privacidad. Cualquier cambio a esta Política de Privacidad entrará en "
+#~ "vigencia cuando hagamos que la Política de Privacidad revisada esté "
+#~ "disponible en o/a través del Sitio. El uso de dicho sitio o el envío de "
+#~ "cualquier información relacionada con dicho sitio después de dichos "
+#~ "cambios significa que acepta la Política de privacidad revisada"
+
+#~ msgid "INFORMATION WE MAY COLLECT FROM YOU"
+#~ msgstr "INFORMACIÓN QUE PODEMOS RECOGER DE USTED"
+
+#~ msgid ""
+#~ "When you use the Site, two types of information are collected in "
+#~ "connection with the Properties: Personal Identifiable Information (PII) "
+#~ "and Other Information. “Personal Identifiable Information” is information "
+#~ "that identifies you as an individual. “Other Information” is any "
+#~ "information that does not reveal your specific identity. Other "
+#~ "Information is addressed separately below, under the heading “OTHER "
+#~ "INFORMATION”"
+#~ msgstr ""
+#~ "Cuando utiliza el Sitio, se recopilan dos tipos de información en "
+#~ "relación con las Propiedades: Información de identificación personal "
+#~ "(PII) y Otra información. La \"información de identificación personal\" "
+#~ "es información que lo identifica a usted como individuo. \"Otra "
+#~ "información\" es cualquier información que no revela su identidad "
+#~ "específica. Otra información se trata por separado a continuación, bajo "
+#~ "el título \"OTRA INFORMACIÓN\""
+
+#~ msgid ""
+#~ "We and our third-party service providers may collect PII through the "
+#~ "Site, for example, when you participate in various opportunities provided "
+#~ "through the Site, such as"
+#~ msgstr ""
+#~ "Nosotros y nuestros proveedores de servicios externos podemos usar la "
+#~ "Información personal"
+
+#~ msgid "When you purchase a product or make a request"
+#~ msgstr "Para responder a sus consultas y cumplir con sus solicitudes"
+
+#, fuzzy
+#~| msgid "Contact"
+#~ msgid "contacts"
+#~ msgstr "Contacto"

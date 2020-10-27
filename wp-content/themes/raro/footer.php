@@ -3,8 +3,8 @@
       <section class="contacts section" id="contact">
         <div class="container">
           <header class="section-header">
-            <h2 class="section-title">Get <span class="text-primary">in touch</span></h2>
-            <strong class="fade-title-right">contacts</strong>
+            <h2 class="section-title"><?php _e('Get <span class="text-primary">in touch</span>', 'raro') ?></h2>
+            <strong class="fade-title-right"><?php _e('Contact', 'raro') ?></strong>
           </header>
           <div class="section-content">
             <div class="row-base row">
@@ -34,12 +34,12 @@
               </a>
             </div>
             <div class="text-center-md col-base col-md-4">
-              <a href="<?php echo site_url('privacy-policy') ?>" class="author-link">
-                Privacy Notice
+              <a href="<?php echo (pll_current_language() === 'en' ) ? site_url('privacy-policy') : site_url('politica-de-privacidad') ?>" class="author-link">
+              <?php _e('Privacy Notice', 'raro') ?>
               </a>
             </div>
             <div class="text-right-md col-base col-md-4">
-              © RaRo <?php echo date('Y') ?>. All Rights Reserved.
+              © RaRo <?php echo date('Y') ?>. <?php _e('All Rights Reserved', 'raro') ?>.
             </div>
           </div>
         </div>
