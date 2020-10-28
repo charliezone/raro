@@ -39,7 +39,7 @@
 
     <header id="top" class="<?php echo (is_page('home') || is_page('inicio')) ? 'header-home' : 'header-inner' ?>">
       <div class="brand-panel">
-        <a href="<?php echo site_url(); ?>" class="brand js-target-scroll">
+        <a href="<?php echo (pll_current_language() === 'en' ) ? site_url() : site_url('inicio'); ?>" class="brand js-target-scroll">
           <img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt="RaRo Logo">
         </a>
         <div class="brand-name">RaRo</div>
@@ -60,7 +60,7 @@
         <ul class="social-list">
           <li><a href="https://www.instagram.com/rarocompany/?hl=es-la" target="_blank" class="fa fa-instagram"></a></li>
           <li><a href="https://www.twitter.com/RaRoCompany" target="_blank" class="fa fa-twitter"></a></li>
-          <li><a href="https://www.linkedin.com/raro-company" target="_blank" class="fa fa-linkedin"></a></li>
+          <li><a href="https://www.linkedin.com/company/rarocompany" target="_blank" class="fa fa-linkedin"></a></li>
           <li><a href="https://www.facebook.com/RaRoCompany" target="_blank" class="fa fa-facebook"></a></li>
          </ul>  
       </div> 

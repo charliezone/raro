@@ -723,8 +723,8 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-production.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-production.jpg"></div>
                 </div>
                 <div class="blog-info col-md-4">
                     <h2 class="blog-title"><?php _e('Music Production', 'raro') ?></h2>
@@ -739,8 +739,8 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-distribution.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-distribution.jpg"></div>
                 </div>
                 <div class="blog-info col-md-4">
                     <h2 class="blog-title"><?php _e('Music Distribution', 'raro') ?></h2>
@@ -755,8 +755,8 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/talent-development.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/talent-development.jpg"></div>
                 </div>
                 <div class="blog-info col-md-4">
                     <h2 class="blog-title"><?php _e('Talent Development', 'raro') ?></h2>
@@ -771,12 +771,12 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-marketing.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-marketing.jpg"></div>
                 </div>
                 <div class="blog-info col-md-4">
                     <h2 class="blog-title"><?php _e('Music Marketing', 'raro') ?></h2>
-                    <p><?php _e('Marketing and promotion are the processes of letting your audience know you’re here to stay and make history together. It’s an art that requires numerous hours of effort and planification. We’re great at it', 'raro') ?>. </p>
+                    <p><?php _e('Marketing and promotion are the processes of letting your audience know you’re here to stay and make history together. It’s an art that requires numerous hours of effort and planning. We’re great at it', 'raro') ?>. </p>
                 </div>
             </div>
             <a href="#" class="close-btn">X</a>
@@ -787,12 +787,12 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/talent-management.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/talent-management.jpg"></div>
                 </div>
                 <div class="blog-info col-md-4">
                     <h2 class="blog-title"><?php _e('Talent Management', 'raro') ?></h2>
-                    <p><?php _e('An artist needs a representative, an advisor to asssist in your growth and handle not only your public relations, but negotiations and coordinations as well.  We’ve got you', 'raro') ?>.</p>
+                    <p><?php _e('An artist needs a representative, an adviser to asssist in your growth and handle not only your public relations, but negotiations and coordinations as well.  We’ve got you', 'raro') ?>.</p>
                 </div>
             </div>
             <a href="#" class="close-btn">X</a>
@@ -803,8 +803,8 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-development.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-development.jpg"></div>
                 </div>
                 <div class="blog-info col-md-4">
                     <h2 class="blog-title"><?php _e('Business Development', 'raro') ?></h2>
@@ -819,8 +819,8 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-restructure.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-restructure.jpg"></div>
                 </div>
                 <div class="blog-info col-md-4">
                     <h2 class="blog-title"><?php _e('Business Restructure', 'raro') ?></h2>
@@ -835,8 +835,8 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-marketing.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-marketing.jpg"></div>
                 </div>
                 <div class="blog-info col-md-4">
                     <h2 class="blog-title"><?php _e('Business Marketing', 'raro') ?></h2>
@@ -851,8 +851,8 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/graphic-design.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/graphic-design.jpg"></div>
                 </div>
                 <div class="blog-info col-md-4">
                     <h2 class="blog-title"><?php _e('Graphic Design', 'raro') ?></h2>
@@ -867,8 +867,8 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/content-distribution.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/content-distribution.jpg"></div>
                 </div>
                 <div class="blog-info col-md-4">
                     <h2 class="blog-title"><?php _e('Content Distribution', 'raro') ?></h2>
@@ -883,8 +883,8 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/release-strategy.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/release-strategy.jpg"></div>
                 </div>
                 <div class="blog-info col-md-4">
                     <h2 class="blog-title"><?php _e('Release Strategy', 'raro') ?></h2>
@@ -899,8 +899,8 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/paid-campaigns.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/paid-campaigns.jpg"></div>
                 </div>
                 <div class="blog-info col-md-4">
                     <h2 class="blog-title"><?php _e('Paid Campaigns', 'raro') ?></h2>
@@ -915,8 +915,8 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/branding.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/branding.jpg"></div>
                 </div>
                 <div class="blog-info col-md-4">
                     <h2 class="blog-title"><?php _e('Branding', 'raro') ?></h2>
@@ -931,8 +931,8 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/social-media-management.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/social-media-management.jpg"></div>
                 </div>
                 <div class="blog-info col-md-4">
                     <h2 class="blog-title"><?php _e('Social Media Management', 'raro') ?></h2>
@@ -947,8 +947,8 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo site_url() ?>/wp-content/uploads/2020/10/162-1200x800-1.jpg"></div>
+                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/audiovisuals.jpg);"></div>
+                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/audiovisuals.jpg"></div>
                 </div>
                 <div class="blog-info col-md-4">
                     <h2 class="blog-title"><?php _e('Audiovisuals', 'raro') ?></h2>

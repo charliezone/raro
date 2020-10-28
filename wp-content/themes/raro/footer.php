@@ -16,7 +16,7 @@
                 <a href="mailto:info@goarch.com">info@raro-co.com</a><br>
               </div>
               <div class="col-base  col-md-8">
-                <?php echo do_shortcode('[contact-form-7 id="8" title="Contact form 1"]') ?>
+                <?php echo (pll_current_language() === 'en' ) ? do_shortcode('[contact-form-7 id="8" title="Contact form 1"]') : do_shortcode('[contact-form-7 id="43" title="Contact form 1 es"]') ?>
               </div>
             </div>
           </div>

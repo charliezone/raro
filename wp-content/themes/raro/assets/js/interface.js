@@ -256,7 +256,7 @@
 	  Project carousel
 	-------------------------------------------------------------------------------*/
 
-
+	const navText = (site_info.languaje === 'en') ? ["prev","next"] : ["ant","sig"];
 
 	$(".js-projects-carousel").owlCarousel({
 		itemsMobile:[479,1],
@@ -267,7 +267,8 @@
 		pagination:false,
 		navigation:true,
 		slideSpeed:700,
-		responsiveRefreshRate:0
+		responsiveRefreshRate:0,
+		navigationText: navText
 	});
 
 
