@@ -9,8 +9,6 @@
           <div class="section-content">
             <div class="row-base row">
               <div class="col-address col-base col-md-4">
-                <a href="tel:+529878761642">+52 (987) 876-1642</a><br>
-                <small>MEX, Yucatán, Mérida</small><br>
                 <a href="tel:+17863715657">+1 (786) 371-5657</a><br>
                 <small>USA, Florida, Miami</small><br>
                 <a href="mailto:info@goarch.com">info@raro-co.com</a><br>

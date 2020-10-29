@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2020-10-27 18:30-0400\n"
-"PO-Revision-Date: 2020-10-28 10:29-0400\n"
+"POT-Creation-Date: 2020-10-29 14:54-0400\n"
+"PO-Revision-Date: 2020-10-29 14:58-0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -23,11 +23,11 @@ msgstr "Estamos <span class=\"text-primary\">en contacto</span>"
 msgid "Contact"
 msgstr "Contacto"
 
-#: footer.php:38
+#: footer.php:36
 msgid "Privacy Notice"
 msgstr "Política de privacidad"
 
-#: footer.php:42
+#: footer.php:40
 msgid "All Rights Reserved"
 msgstr "Todos los derechos reservados"
 
@@ -74,7 +74,7 @@ msgid ""
 msgstr ""
 "Limitarte porque no estas seguro del éxito<br class=\"hidden-lg\" /> y "
 "tienes miedo al fracaso, es una mala actitud.<br/>Confiá en nosotros y en ti "
-"mismo,<br class=\"hidden-lg\" />juntos conquistaremos la victoria"
+"mismo, <br class=\"hidden-lg\" />juntos llegaremos más lejos"
 
 #: page-home.php:83 page-home.php:151 page-home.php:219 page-home.php:287
 msgid "Contact us"
@@ -89,9 +89,9 @@ msgid ""
 "It’s all about what you want and your commitment to it.<br />There is "
 "nothing impossible. It’s all up to you.<br />And you found us"
 msgstr ""
-"Todo es acerca de lo que quieres<br class=\"hidden-lg\" />y el compromiso "
-"que tengas para lograrlo<br />No hay nada imposible. El éxito depende de ti."
-"<br />Y lo encontraras con nosotros"
+"Todo es acerca de lo que quieres <br class=\"hidden-lg\" />y el compromiso "
+"que tengas para lograrlo.<br />No hay nada imposible. El éxito depende de ti."
+"<br />Y ya nos encontraste"
 
 #: page-home.php:182
 msgid "WHAT ARE YOU AFRAID OF?"
@@ -99,7 +99,7 @@ msgstr "¿A que le temes?"
 
 #: page-home.php:199
 msgid ""
-"Use your fear to push your business forward.<br />Be know. be found and "
+"Use your fear to push your business forward.<br />Be know, be found and "
 "break the barriers.<br />We’re here to back you up"
 msgstr ""
 "Usa tus temores para impulsar tu negocio.<br />Date a conocer. Se encontrado "
@@ -107,15 +107,15 @@ msgstr ""
 
 #: page-home.php:250
 msgid "ARE YOU READY<br />TO RUMBLE?"
-msgstr "¿Estas listo<br />para el baile?"
+msgstr "¿Estas listo<br />para retumbar?"
 
 #: page-home.php:267
 msgid ""
 "Let’s do it, head over to contact us<br />and honor us with your trust!<br /"
 ">We’ll grow together!"
 msgstr ""
-"Hagámoslo, dirígete a nosotros<br />y hónranos con tu verdad.<br /"
-">Creceremos juntos!"
+"Hagámoslo, ve a contacto<br />y hónranos con tú confianza.<br />¡Vamos a "
+"crecer juntos!"
 
 #: page-home.php:302
 msgid "About <span class=\"text-primary\">Us</span>"
@@ -147,8 +147,8 @@ msgid ""
 "plan, we build, we succeed. And we do it quick"
 msgstr ""
 "Sabemos que tenemos que usar diferentes sombreros, para cumplir las "
-"necesidades individuales. Y estamos listos para aceptar los retos. No es una "
-"palabra que no existe en nuestro vocabulario.  Nosotros planeamos, "
+"necesidades individuales. Y estamos listos para aceptar los retos. No, es "
+"una palabra que no existe en nuestro vocabulario.  Nosotros planeamos, "
 "construimos y triunfamos. Y lo hacemos rápido"
 
 #: page-home.php:312
@@ -179,63 +179,63 @@ msgstr "Marketing"
 msgid "Our <span class=\"text-primary\">Services</span>"
 msgstr "Nuestros <span class=\"text-primary\">Servicios</span>"
 
-#: page-home.php:352 page-home.php:354 page-home.php:358 page-home.php:730
+#: page-home.php:352 page-home.php:354 page-home.php:358 page-home.php:729
 msgid "Music Production"
 msgstr "Producción musical"
 
-#: page-home.php:367 page-home.php:369 page-home.php:373 page-home.php:746
+#: page-home.php:367 page-home.php:369 page-home.php:373 page-home.php:744
 msgid "Music Distribution"
 msgstr "Distribución musical"
 
-#: page-home.php:382 page-home.php:384 page-home.php:388 page-home.php:762
+#: page-home.php:382 page-home.php:384 page-home.php:388 page-home.php:759
 msgid "Talent Development"
 msgstr "Desarrollo de talento"
 
-#: page-home.php:397 page-home.php:399 page-home.php:403 page-home.php:778
+#: page-home.php:397 page-home.php:399 page-home.php:403 page-home.php:774
 msgid "Music Marketing"
 msgstr "Marketing musical"
 
-#: page-home.php:412 page-home.php:414 page-home.php:418 page-home.php:794
+#: page-home.php:412 page-home.php:414 page-home.php:418 page-home.php:789
 msgid "Talent Management"
 msgstr "Gestión de talento"
 
-#: page-home.php:427 page-home.php:429 page-home.php:433 page-home.php:810
+#: page-home.php:427 page-home.php:429 page-home.php:433 page-home.php:804
 msgid "Business Development"
 msgstr "Desarrollo de negocios"
 
-#: page-home.php:442 page-home.php:444 page-home.php:448 page-home.php:826
+#: page-home.php:442 page-home.php:444 page-home.php:448 page-home.php:819
 msgid "Business Restructure"
 msgstr "Reestructuración de negocio"
 
-#: page-home.php:457 page-home.php:459 page-home.php:463 page-home.php:842
+#: page-home.php:457 page-home.php:459 page-home.php:463 page-home.php:834
 msgid "Business Marketing"
 msgstr "Marketing"
 
-#: page-home.php:472 page-home.php:474 page-home.php:478 page-home.php:858
+#: page-home.php:472 page-home.php:474 page-home.php:478 page-home.php:849
 msgid "Graphic Design"
 msgstr "Diseño grafico"
 
-#: page-home.php:487 page-home.php:489 page-home.php:493 page-home.php:874
+#: page-home.php:487 page-home.php:489 page-home.php:493 page-home.php:864
 msgid "Content Distribution"
 msgstr "Distribución de contenido"
 
-#: page-home.php:502 page-home.php:504 page-home.php:508 page-home.php:890
+#: page-home.php:502 page-home.php:504 page-home.php:508 page-home.php:879
 msgid "Release Strategy"
 msgstr "Estrategia de lanzamiento"
 
-#: page-home.php:517 page-home.php:519 page-home.php:523 page-home.php:906
+#: page-home.php:517 page-home.php:519 page-home.php:523 page-home.php:894
 msgid "Paid Campaigns"
 msgstr "Campañas de pago"
 
-#: page-home.php:532 page-home.php:534 page-home.php:538 page-home.php:922
+#: page-home.php:532 page-home.php:534 page-home.php:538 page-home.php:909
 msgid "Branding"
 msgstr "Branding"
 
-#: page-home.php:547 page-home.php:549 page-home.php:553 page-home.php:938
+#: page-home.php:547 page-home.php:549 page-home.php:553 page-home.php:924
 msgid "Social Media Management"
 msgstr "Gestión de redes sociales"
 
-#: page-home.php:562 page-home.php:564 page-home.php:568 page-home.php:954
+#: page-home.php:562 page-home.php:564 page-home.php:568 page-home.php:939
 msgid "Audiovisuals"
 msgstr "Audiovisuales"
 
@@ -250,18 +250,6 @@ msgid ""
 msgstr ""
 "<span class=\"text-primary\">Años de trabajo exitoso</span><br>en el mercado"
 
-#: page-home.php:596
-msgid "Our <span class=\"text-primary\">clients</span>"
-msgstr "Nuestros <span class=\"text-primary\">clientes</span>"
-
-#: page-home.php:597
-msgid "clients"
-msgstr "clientes"
-
-#: page-home.php:634
-msgid "Work together"
-msgstr "Trabajemos juntos"
-
 #: page-home.php:642
 msgid "Our <span class=\"text-primary\">Team</span>"
 msgstr "Nuestro <span class=\"text-primary\">Equipo</span>"
@@ -270,7 +258,7 @@ msgstr "Nuestro <span class=\"text-primary\">Equipo</span>"
 msgid "Herling Founder & Ceo"
 msgstr "Herling Fundadora y Directora"
 
-#: page-home.php:654 page-home.php:665
+#: page-home.php:654
 msgid "Founder & Ceo"
 msgstr "Fundadora y Directora"
 
@@ -310,7 +298,7 @@ msgstr "Ricardo Arreglista"
 msgid "Arranger"
 msgstr "Arreglista"
 
-#: page-home.php:731
+#: page-home.php:730
 msgid ""
 "We oversee and manage the sound recording and production of our artists to "
 "ensure you present top quality material as well as audiovisuals. We cover "
@@ -321,55 +309,56 @@ msgstr ""
 "nuestros artistas para asegurarnos que presenten material y audiovisuales de "
 "primera calidad"
 
-#: page-home.php:747
+#: page-home.php:745
 msgid ""
 "It’s crucial to promoting music. Your music will be at the fingertip of your "
 "fans. As easy as it sounds, it’s not. Among all the details to address is "
 "collecting all your royalties, even those you didn’t even know about"
 msgstr ""
-"Es importante la promoción. Su música vivirá en el corazón de sus fans. Sera "
-"tan fácil como lo oye, no? Entre todos los detalles que debe abordar está el "
-"cobro de todas sus regalías, incluso aquellas que ni siquiera conocía"
+"Es crucial promover la música. Tu música estará en la punta de los dedos de "
+"tus fans. Por tan fácil que suene, no lo es.  Entre todos los detalles que "
+"debes abordar está el cobro de todas tus regalías, incluso aquellas que ni "
+"siquiera sabe que existen"
 
-#: page-home.php:763
+#: page-home.php:760
 msgid ""
 "Is the carterpillar to butterfly transition.  You will have personalized "
 "support to build a professional career in the entertainment industry.  You "
 "bring in your talent and dreams, we do the rest"
 msgstr ""
-"Es la transición de oruga a mariposa. Usted contara con asistencia "
-"personalizada para construir su carrera profesional en la industria del "
-"entretenimiento"
+"Es la transición de oruga a mariposa. Constarás con asistencia personalizada "
+"para construir tu carrera profesional en la industria del entretenimiento"
 
-#: page-home.php:779
+#: page-home.php:775
 msgid ""
 "Marketing and promotion are the processes of letting your audience know "
 "you’re here to stay and make history together. It’s an art that requires "
-"numerous hours of effort and planification. We’re great at it"
+"numerous hours of effort and planning. We’re great at it"
 msgstr ""
-"El marketing y la promoción son los procesos que le permiten a su audiencia "
-"conocer que estas presente y hacer historia juntos. Es un arte que requiere "
-"numerosas horas de esfuerzo y planificación. Somo los mejores en eso"
+"El marketing y la promoción son los procesos que le permiten a tu audiencia "
+"conocer que estás aquí para quedarte y hacer historia juntos. Es un arte que "
+"requiere numerosas horas de esfuerzo y planificación. Somo los mejores en eso"
 
-#: page-home.php:795
+#: page-home.php:790
 msgid ""
-"An artist needs a representative, an advisor to asssist in your growth and "
+"An artist needs a representative, an adviser to asssist in your growth and "
 "handle not only your public relations, but negotiations and coordinations as "
 "well.  We’ve got you"
 msgstr ""
-"Un artista necesita representación, un consultor que le asista en su "
-"crecimiento y gestión, no solo en sus relaciones publicas, si no también en "
-"negociaciones y coordinaciones. Estamos con usted"
+"Un artista necesita representación, un asesor que te ayude en tu crecimiento "
+"y gestión, no solo en sus relaciones públicas, si no también en "
+"negociaciones y coordinaciones. Te tenemos cubierto"
 
-#: page-home.php:811
+#: page-home.php:805
 msgid ""
 "Being an entrepreneaur is a constant challenge. Walk with us in your start "
 "up process and will walk with you the path of quick growth and success"
 msgstr ""
-"Ser un emprendedor es un reto constante. Estamos con usted desde el "
-"principio y estaremos en el camino para apoyarlo con el crecimiento y éxito"
+"Ser un emprendedor es un reto constante. Camina con nosotros durante el "
+"proceso inicial y caminaremos contigo el camino más rápido hacia el "
+"crecimiento y éxito"
 
-#: page-home.php:827
+#: page-home.php:820
 msgid ""
 "Businesses have many external factors that affect the growth and success "
 "process and is not always a good idea to be self sufficient. We create a "
@@ -377,73 +366,75 @@ msgid ""
 "back on track"
 msgstr ""
 "Los negocios tienen muchos factores externos que afectan el proceso del "
-"éxito y crecimiento, no siempre es buena idea transitar solo por este "
-"proceso. Creamos un plan de rescate donde reestructuramos ciertas o todas "
-"las áreas del negocio para sacarlo a flote otra vez"
+"crecimiento y el éxito y no siempre es buena idea ser autosuficiente. "
+"Creamos un plan de rescate donde reestructuramos ciertas o todas las áreas "
+"del negocio para sacarlo a flote otra vez"
 
-#: page-home.php:843
+#: page-home.php:835
 msgid ""
 "You may continue to believe advertising is not needed in your business and "
 "that’s ok if you don’t want to grow, but if you’re set on reaching higher, "
 "marketing and promoting is the only way you will be known and found. Our "
 "team has many years of experience in the field"
 msgstr ""
-"Puede que usted siga pensando que la publicidad no es necesaria en su "
-"negocio y eso esta bien si usted no desea crecer, pero si llegar lejos, el "
-"marketing y la promoción es el único camino para que lo conozcan y encuentren"
+"Puede que tu siga pensando que la publicidad no es necesaria en su negocio y "
+"eso esta bien si tu no deseas crecer, pero si deseas llegar mas alto, el "
+"marketing y la promoción son los únicos caminos para que te conozcan y te "
+"encuentren"
 
-#: page-home.php:859
+#: page-home.php:850
 msgid ""
 "We love to show off our graphic designers talents. They’re an important "
 "piece in our team and they will dress you up for victory"
 msgstr ""
-"Encantados de demostrarle el talento de nuestros diseñadores. Son una pieza "
-"importante en nuestro equipo que sin duda lo conducirán a la victoria"
+"Nos encanta presumir del talento de nuestros diseñadores. Son una pieza "
+"importante en nuestro equipo que sin duda te vestirán para abrazar la "
+"victoria"
 
-#: page-home.php:875
+#: page-home.php:865
 msgid ""
 "Coco Chanel said; \"In order to be irreplaceable one must always be different"
 "\" and our content team abides by it"
 msgstr ""
-"Como dijo Coco Chanel: ¨Con el objetivo de ser irreemplazable uno siempre "
-"debe ser diferente¨ y nuestro equipo de gestión de contenido lo demostrara"
+"Como dijo Coco Chanel: ¨Si quieres ser irremplazable debes ser diferente¨ y "
+"nuestro equipo de gestión se rige por ésa frase"
 
-#: page-home.php:891
+#: page-home.php:880
 msgid ""
 "\"Release\" is a \"big\" word and that’s why it must be mafnificent. We "
 "cover all areas of the release and make sure you boom"
 msgstr ""
 "¨Lanzamiento¨ es una palabra ¨Mayor¨ y es por eso que debe de ser "
-"engrandecida. Cubrimos todas las areas de lanzamiento asegurándonos que sean "
-"exitosos"
+"esplendoroso. Cubrimos todas las áreas de los lanzamientos, asegurándonos "
+"que sean exitosos"
 
-#: page-home.php:907
+#: page-home.php:895
 msgid ""
 "There may be necessary to give it you a little push and we know exactly how "
 "to target the correct campaign"
 msgstr ""
-"Puede que sea necesario darles un empujoncito y sabemos exactamente como "
-"hacerlo"
+"Puede que sea necesario darte un empujoncito y sabemos exactamente como "
+"darle al blanco"
 
-#: page-home.php:923
+#: page-home.php:910
 msgid ""
 "Your brand will be created and promoted as soon as we define it by relevance "
 "depending on the scenario and intended target audience"
 msgstr ""
-"Su marga sera creada y promocionada tan pronto como definamos la relevancia, "
-"y la audiencia especifica a la que llegar"
+"Su marca sera creada y promocionada tan pronto como definamos su relevancia, "
+"dependiendo del escenario  y la audiencia especifica a la que debemos llegar"
 
-#: page-home.php:939
+#: page-home.php:925
 msgid ""
 "Digital era has brought us together and now, more than ever you need to "
 "engage with your audience and our social media team is passionate about it. "
 "We will develop the best strategy to approach your relationship"
 msgstr ""
-"La era digital no une y ahora mas que nunca necesita relacionarse con su "
-"audiencia, nuestro apasionado equipo de gestores de redes sociales lo "
-"ayudara a hacerlo. Desarrollaremos juntos la mejor estrategia para lograrlo"
+"La era digital nos ha unido y ahora mas que nunca necesitas comprometerte "
+"con tu audiencia, y nuestro equipo de redes sociales es muy apasionado. "
+"Desarrollaremos juntos la mejor estrategia para que se acerquen"
 
-#: page-home.php:955
+#: page-home.php:940
 msgid ""
 "They are an essential part of promoting. They current need for visualization "
 "is at its top level and that need must be fed. Our audiovisuals team "
@@ -452,11 +443,28 @@ msgid ""
 "doesn’t matter if you’re an artist, an influencer, a business, the need is "
 "still the same"
 msgstr ""
-"Son partes esenciales de la promoción. La necesidad actual de visualización "
-"alcanza sus máximos niveles y esa necesidad necesita ser alimentada. Nuestro "
-"equipo de audiovisuales conformado por artistas y profesionales producen "
-"videos musicales, comerciales. No importa si eres artista, influencer o "
-"empresario, la necesidad es la misma"
+"Son una parte esencial de la promoción. La necesidad actual de visualización "
+"alcanza sus máximos niveles y esa necesidad necesita ser alimentada. <br "
+"class=\"hidden-xs\" /><br class=\"hidden-xs\" /> Nuestro equipo de "
+"audiovisuales está conformado por increíbles artistas y profesionales qué "
+"producen videos musicales, presentaciones comerciales y anuncios "
+"publicitarios de principio a fin.<br class=\"hidden-xs\" /><br class="
+"\"hidden-xs\" /> No importa si eres artista, influencer o empresario, la "
+"necesidad es la misma"
+
+#~ msgid "Our <span class=\"text-primary\">clients</span>"
+#~ msgstr "Nuestros <span class=\"text-primary\">clientes</span>"
+
+#~ msgid "clients"
+#~ msgstr "clientes"
+
+#~ msgid "Work together"
+#~ msgstr "Trabajemos juntos"
+
+#, fuzzy
+#~| msgid "Founder & Ceo"
+#~ msgid "Founder & Ceo "
+#~ msgstr "Fundadora y Directora"
 
 #~ msgid "Privacy Policy"
 #~ msgstr "Política de privacidad"

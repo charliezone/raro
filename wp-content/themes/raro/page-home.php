@@ -196,7 +196,7 @@
                 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
                 data-start="1500" 
                 data-splitin="none" 
-                data-splitout="none"><?php _e('Use your fear to push your business forward.<br />Be know. be found and break the barriers.<br />We’re here to back you up', 'raro') ?>.
+                data-splitout="none"><?php _e('Use your fear to push your business forward.<br />Be know, be found and break the barriers.<br />We’re here to back you up', 'raro') ?>.
                 </div>
 
                 <!-- Layer 3 -->
@@ -561,7 +561,7 @@
             <div class="project">
                 <a href="#" title="<?php _e('Audiovisuals', 'raro') ?>" target="audiovisuals">
                 <figure>
-                    <img alt="<?php _e('Audiovisuals', 'raro') ?>" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/branding.jpg">
+                    <img alt="<?php _e('Audiovisuals', 'raro') ?>" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/audiovisuals.jpg">
                     <figcaption>
                     <div class="project-category-container">
                         <h4 class="project-category">
@@ -590,51 +590,51 @@
 
     <!-- Clients  -->
 
-    <section class="clients section" style="display: none;">
+    <!-- <section class="clients section" style="display: none;">
         <div class="container">
             <header class="section-header">
-            <h2 class="section-title"><?php _e('Our <span class="text-primary">clients</span>', 'raro') ?></h2>
-            <strong class="fade-title-left"><?php _e('clients', 'raro') ?></strong>
+            <h2 class="section-title"><?php //_e('Our <span class="text-primary">clients</span>', 'raro') ?></h2>
+            <strong class="fade-title-left"><?php //_e('clients', 'raro') ?></strong>
             </header>
             <div class="section-content">
             <ul class="clients-list">
                 <li class="client">
-                <a href="#"><img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/clients/1.png"></a>
+                <a href="#"><img alt="" src="<?php //echo get_template_directory_uri(); ?>/assets/img/clients/1.png"></a>
                 </li>
                 <li class="client">
-                <a href="#"><img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/clients/2.png"></a>
+                <a href="#"><img alt="" src="<?php //echo get_template_directory_uri(); ?>/assets/img/clients/2.png"></a>
                 </li>
                 <li class="client">
-                <a href="#"><img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/clients/3.png"></a>
+                <a href="#"><img alt="" src="<?php //echo get_template_directory_uri(); ?>/assets/img/clients/3.png"></a>
                 </li>
                 <li class="client">
-                <a href="#"><img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/clients/4.png"></a>
+                <a href="#"><img alt="" src="<?php //echo get_template_directory_uri(); ?>/assets/img/clients/4.png"></a>
                 </li>
                 <li class="client">
-                <a href="#"><img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/clients/5.png"></a>
+                <a href="#"><img alt="" src="<?php //echo get_template_directory_uri(); ?>/assets/img/clients/5.png"></a>
                 </li>
                 <li class="client">
-                <a href="#"><img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/clients/1.png"></a>
+                <a href="#"><img alt="" src="<?php //echo get_template_directory_uri(); ?>/assets/img/clients/1.png"></a>
                 </li>
                 <li class="client">
-                <a href="#"><img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/clients/2.png"></a>
+                <a href="#"><img alt="" src="<?php //echo get_template_directory_uri(); ?>/assets/img/clients/2.png"></a>
                 </li>
                 <li class="client">
-                <a href="#"><img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/clients/3.png"></a>
+                <a href="#"><img alt="" src="<?php //echo get_template_directory_uri(); ?>/assets/img/clients/3.png"></a>
                 </li>
                 <li class="client">
-                <a href="#"><img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/clients/4.png"></a>
+                <a href="#"><img alt="" src="<?php //echo get_template_directory_uri(); ?>/assets/img/clients/4.png"></a>
                 </li>
                 <li class="client">
-                <a href="#"><img alt="" src="<?php echo get_template_directory_uri(); ?>/assets/img/clients/5.png"></a>
+                <a href="#"><img alt="" src="<?php //echo get_template_directory_uri(); ?>/assets/img/clients/5.png"></a>
                 </li>
             </ul>
             </div>
             <div class="section-content">
-            <a href="#" class="btn btn-shadow-2"><?php _e('Work together', 'raro') ?> <i class="icon-next"></i></a>
+            <a href="#" class="btn btn-shadow-2"><?php //_e('Work together', 'raro') ?> <i class="icon-next"></i></a>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <section class="our-team section" id="our-team">
         <div class="container">
@@ -662,7 +662,7 @@
                             </div>
                             <div class="member-content">
                                 <h3 class="name">Ariel Ragués</h3>
-                                <small class="job"><?php _e('Founder & Ceo', 'raro') ?></small>
+                                <small class="job"><?php echo (pll_current_language() === 'en' ) ? 'Founder & Ceo' : 'Fundador y director' ?></small>
                             </div>
                         </div>
                     </div>
@@ -722,11 +722,10 @@
     <div class="modal-container" id="music-production">
         <article class="blog service-modal">
             <div class="row">
-                <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-production.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-production.jpg"></div>
+                <div class="blog-thumbnail col-md-8 col-xs-12">
+                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-production.jpg">
                 </div>
-                <div class="blog-info col-md-4">
+                <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Music Production', 'raro') ?></h2>
                     <p><?php _e('We oversee and manage the sound recording and production of our artists to ensure you present top quality material as well as audiovisuals. We cover instruments, beats, mixing and master, all handled with extreme care to satisfy your most demanding audience', 'raro') ?>.</p>
                 </div>
@@ -738,11 +737,10 @@
     <div class="modal-container" id="music-distribution">
         <article class="blog service-modal">
             <div class="row">
-                <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-distribution.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-distribution.jpg"></div>
+                <div class="blog-thumbnail col-md-8 col-xs-12">
+                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-distribution.jpg">
                 </div>
-                <div class="blog-info col-md-4">
+                <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Music Distribution', 'raro') ?></h2>
                     <p><?php _e('It’s crucial to promoting music. Your music will be at the fingertip of your fans. As easy as it sounds, it’s not. Among all the details to address is collecting all your royalties, even those you didn’t even know about', 'raro') ?>.</p>
                 </div>
@@ -754,11 +752,10 @@
     <div class="modal-container" id="talent-development">
         <article class="blog service-modal">
             <div class="row">
-                <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/talent-development.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/talent-development.jpg"></div>
+                <div class="blog-thumbnail col-md-8 col-xs-12">
+                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/talent-development.jpg">
                 </div>
-                <div class="blog-info col-md-4">
+                <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Talent Development', 'raro') ?></h2>
                     <p><?php _e('Is the carterpillar to butterfly transition.  You will have personalized support to build a professional career in the entertainment industry.  You bring in your talent and dreams, we do the rest', 'raro') ?>.</p>
                 </div>
@@ -770,11 +767,10 @@
     <div class="modal-container" id="music-marketing">
         <article class="blog service-modal">
             <div class="row">
-                <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-marketing.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-marketing.jpg"></div>
+                <div class="blog-thumbnail col-md-8 col-xs-12">
+                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-marketing.jpg">
                 </div>
-                <div class="blog-info col-md-4">
+                <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Music Marketing', 'raro') ?></h2>
                     <p><?php _e('Marketing and promotion are the processes of letting your audience know you’re here to stay and make history together. It’s an art that requires numerous hours of effort and planning. We’re great at it', 'raro') ?>. </p>
                 </div>
@@ -786,11 +782,10 @@
     <div class="modal-container" id="talent-management">
         <article class="blog service-modal">
             <div class="row">
-                <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/talent-management.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/talent-management.jpg"></div>
+                <div class="blog-thumbnail col-md-8 col-xs-12">
+                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/talent-management.jpg">
                 </div>
-                <div class="blog-info col-md-4">
+                <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Talent Management', 'raro') ?></h2>
                     <p><?php _e('An artist needs a representative, an adviser to asssist in your growth and handle not only your public relations, but negotiations and coordinations as well.  We’ve got you', 'raro') ?>.</p>
                 </div>
@@ -802,11 +797,10 @@
     <div class="modal-container" id="business-development">
         <article class="blog service-modal">
             <div class="row">
-                <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-development.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-development.jpg"></div>
+                <div class="blog-thumbnail col-md-8 col-xs-12">
+                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-development.jpg">   
                 </div>
-                <div class="blog-info col-md-4">
+                <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Business Development', 'raro') ?></h2>
                     <p><?php _e('Being an entrepreneaur is a constant challenge. Walk with us in your start up process and will walk with you the path of quick growth and success', 'raro') ?>.</p>
                 </div>
@@ -818,11 +812,10 @@
     <div class="modal-container" id="business-restructure">
         <article class="blog service-modal">
             <div class="row">
-                <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-restructure.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-restructure.jpg"></div>
+                <div class="blog-thumbnail col-md-8 col-xs-12">
+                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-restructure.jpg">
                 </div>
-                <div class="blog-info col-md-4">
+                <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Business Restructure', 'raro') ?></h2>
                     <p><?php _e('Businesses have many external factors that affect the growth and success process and is not always a good idea to be self sufficient. We create a rescue plan by restructuring certain or all areas of the business to put it back on track', 'raro') ?>.</p>
                 </div>
@@ -834,11 +827,10 @@
     <div class="modal-container" id="business-marketing">
         <article class="blog service-modal">
             <div class="row">
-                <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-marketing.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-marketing.jpg"></div>
+                <div class="blog-thumbnail col-md-8 col-xs-12">
+                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-marketing.jpg">
                 </div>
-                <div class="blog-info col-md-4">
+                <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Business Marketing', 'raro') ?></h2>
                     <p><?php _e('You may continue to believe advertising is not needed in your business and that’s ok if you don’t want to grow, but if you’re set on reaching higher, marketing and promoting is the only way you will be known and found. Our team has many years of experience in the field', 'raro') ?>.</p>
                 </div>
@@ -850,11 +842,10 @@
     <div class="modal-container" id="graphic-design">
         <article class="blog service-modal">
             <div class="row">
-                <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/graphic-design.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/graphic-design.jpg"></div>
+                <div class="blog-thumbnail col-md-8 col-xs-12">
+                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/graphic-design.jpg">
                 </div>
-                <div class="blog-info col-md-4">
+                <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Graphic Design', 'raro') ?></h2>
                     <p><?php _e('We love to show off our graphic designers talents. They’re an important piece in our team and they will dress you up for victory', 'raro') ?>.</p>
                 </div>
@@ -866,11 +857,10 @@
     <div class="modal-container" id="content-distribution">
         <article class="blog service-modal">
             <div class="row">
-                <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/content-distribution.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/content-distribution.jpg"></div>
+                <div class="blog-thumbnail col-md-8 col-xs-12">
+                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/content-distribution.jpg">
                 </div>
-                <div class="blog-info col-md-4">
+                <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Content Distribution', 'raro') ?></h2>
                     <p><?php _e('Coco Chanel said; "In order to be irreplaceable one must always be different" and our content team abides by it', 'raro') ?>.</p>
                 </div>
@@ -882,11 +872,10 @@
     <div class="modal-container" id="release-strategy">
         <article class="blog service-modal">
             <div class="row">
-                <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/release-strategy.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/release-strategy.jpg"></div>
+                <div class="blog-thumbnail col-md-8 col-xs-12">
+                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/release-strategy.jpg">
                 </div>
-                <div class="blog-info col-md-4">
+                <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Release Strategy', 'raro') ?></h2>
                     <p><?php _e('"Release" is a "big" word and that’s why it must be mafnificent. We cover all areas of the release and make sure you boom', 'raro') ?>.</p>
                 </div>
@@ -898,11 +887,10 @@
     <div class="modal-container" id="paid-campaigns">
         <article class="blog service-modal">
             <div class="row">
-                <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/paid-campaigns.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/paid-campaigns.jpg"></div>
+                <div class="blog-thumbnail col-md-8 col-xs-12">
+                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/paid-campaigns.jpg">
                 </div>
-                <div class="blog-info col-md-4">
+                <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Paid Campaigns', 'raro') ?></h2>
                     <p><?php _e('There may be necessary to give it you a little push and we know exactly how to target the correct campaign', 'raro') ?>.</p>
                 </div>
@@ -914,11 +902,10 @@
     <div class="modal-container" id="branding">
         <article class="blog service-modal">
             <div class="row">
-                <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/branding.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/branding.jpg"></div>
+                <div class="blog-thumbnail col-md-8 col-xs-12">
+                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/branding.jpg">
                 </div>
-                <div class="blog-info col-md-4">
+                <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Branding', 'raro') ?></h2>
                     <p><?php _e('Your brand will be created and promoted as soon as we define it by relevance depending on the scenario and intended target audience', 'raro') ?>.</p>
                 </div>
@@ -930,11 +917,10 @@
     <div class="modal-container" id="social-media-management">
         <article class="blog service-modal">
             <div class="row">
-                <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/social-media-management.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/social-media-management.jpg"></div>
+                <div class="blog-thumbnail col-md-8 col-xs-12">
+                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/social-media-management.jpg">
                 </div>
-                <div class="blog-info col-md-4">
+                <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Social Media Management', 'raro') ?></h2>
                     <p><?php _e('Digital era has brought us together and now, more than ever you need to engage with your audience and our social media team is passionate about it. We will develop the best strategy to approach your relationship', 'raro') ?>. </p>
                 </div>
@@ -946,11 +932,10 @@
     <div class="modal-container" id="audiovisuals">
         <article class="blog service-modal">
             <div class="row">
-                <div class="blog-thumbnail col-md-8">
-                    <div class="blog-thumbnail-bg col-md-8 visible-md visible-lg" style="background-image: url(<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/audiovisuals.jpg);"></div>
-                    <div class="blog-thumbnail-img visible-xs visible-sm"><img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/audiovisuals.jpg"></div>
+                <div class="blog-thumbnail col-md-8 col-xs-12">
+                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/audiovisuals.jpg">
                 </div>
-                <div class="blog-info col-md-4">
+                <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Audiovisuals', 'raro') ?></h2>
                     <p><?php _e('They are an essential part of promoting. They current need for visualization is at its top level and that need must be fed. Our audiovisuals team conforms of amazing artists and professionals to create music videos, business presentation videos, advertising spots from beginning to end. It doesn’t matter if you’re an artist, an influencer, a business, the need is still the same', 'raro') ?>.</p>
                 </div>
