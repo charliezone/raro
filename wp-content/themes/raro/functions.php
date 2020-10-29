@@ -17,10 +17,7 @@ function raro_styles_scripts() {
     wp_enqueue_style( 'font-oswald', 'https://fonts.googleapis.com/css?family=Oswald:300,400,700');
     wp_enqueue_style( 'font-montserrat', 'https://fonts.googleapis.com/css?family=Montserrat:400,700');
     wp_enqueue_style( 'raro-theme-style', get_template_directory_uri() . '/assets/css/style.css', array('font-oswald', 'font-montserrat') );
-    wp_enqueue_style( 'raro-custom-style', get_stylesheet_uri(), array('raro-theme-style') );
-
-    //wp_register_script( 'raro_jquery_version', get_template_directory_uri() . '/assets/js/jquery.min.js', null, '', true );
-    //wp_add_inline_script( 'raro_jquery_version', 'var raro_jquery_version = $.noConflict(true);' );
+    wp_enqueue_style( 'raro-custom-style', get_stylesheet_uri(), array('raro-theme-style'), '1.0.0' );
 
     wp_enqueue_script( 'script-bootstrap', get_template_directory_uri() . '/assets/js/bootstrap.min.js', array('jquery'), '', true );
     wp_enqueue_script( 'script-wow', get_template_directory_uri() . '/assets/js/wow.min.js', array('script-bootstrap'), '', true );
@@ -42,7 +39,7 @@ function raro_styles_scripts() {
     $site_info = array('languaje' => pll_current_language());
     wp_localize_script( 'script-interface', 'site_info', $site_info );
     wp_enqueue_script('script-interface');
-    wp_enqueue_script( 'script-custom', get_template_directory_uri() . '/assets/js/custom.js', array('script-interface'), '', true );
+    wp_enqueue_script( 'script-custom', get_template_directory_uri() . '/assets/js/custom.js', array('script-interface'), '1.0.0', true );
 }
 
 function raro_head_styles_scripts(){
