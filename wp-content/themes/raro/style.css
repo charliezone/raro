@@ -6,6 +6,7 @@
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: raro
+ * Domain Path: /languages
  */
 
  /* Fonts import */
@@ -82,6 +83,10 @@
     .navbar-mobile .brand img{
         width: 40%;
     }
+ }
+
+ .navbar-desctop-menu .lang-item-en{
+     margin-left: 15px; 
  }
 
  /* Slider */
@@ -218,16 +223,37 @@
  }
 
  .modal-container .service-modal .row{
-     width: 100%;
+    width: 100%;
+    height: 100%;
+    display: flex;
+ }
+
+ @media screen and (max-width: 992px){
+    .modal-container .service-modal .row{
+        flex-direction: column;
+    }
  }
 
  .modal-container .service-modal .blog-thumbnail{
-     padding: 0;
+    padding: 0;
  }
 
- .modal-container .service-modal .blog-thumbnail  .blog-thumbnail-img{
-    height: 200px;
-    overflow: hidden;
+ .modal-container .service-modal .blog-thumbnail img{
+     height: 100%;
+ }
+
+ .modal-container .service-modal .blog-info{
+    flex: 1;
+    display: flex;
+    justify-items: center;
+    flex-direction: column;
+    justify-content: center;
+ }
+
+ @media screen and (max-width: 992px){
+    .modal-container .service-modal .blog-thumbnail img{
+        height: auto;
+    }
  }
 
  .modal-container .service-modal .close-btn{
@@ -325,14 +351,27 @@
     color: #b60101;
  }
 
+ .privacy-policy h5{
+     text-transform: uppercase;
+ }
+
  /* Go up btn */
 
  .go-up{
     right: 50px;
-    bottom: 30px;
+    z-index: 9;
+    bottom: 3px;
     display: none;
     position: fixed;
     font-size: 65px;
+ }
+
+ @media screen and (max-width: 992px){
+    .go-up{
+        right: 20px;
+        bottom: 0;
+        font-size: 40px;
+    }
  }
 
  .go-up .fa{
@@ -340,12 +379,3 @@
     text-shadow: 2px 2px 2px #000;
     text-shadow: 3px 4px 10px #000;
  }
-
- @media screen and (max-width: 992px){
-    .go-up{
-        right: 10px;
-        bottom: 0px;
-        font-size: 40px;
-    }
- }
-

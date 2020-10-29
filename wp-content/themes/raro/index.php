@@ -8,7 +8,7 @@
     <main class="main main-inner main-blog bg-blog" data-stellar-background-ratio="0.6">
       <div class="container">
         <header class="main-header">
-          <h2>Blog</h2>
+          <h2><?php _e('Blog', 'raro') ?></h2>
         </header>
       </div>
 
