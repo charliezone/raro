@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2020-10-29 14:54-0400\n"
-"PO-Revision-Date: 2020-10-29 14:58-0400\n"
+"PO-Revision-Date: 2020-10-30 08:45-0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -209,7 +209,7 @@ msgstr "Reestructuración de negocio"
 
 #: page-home.php:457 page-home.php:459 page-home.php:463 page-home.php:834
 msgid "Business Marketing"
-msgstr "Marketing"
+msgstr "Marketing para Negocio"
 
 #: page-home.php:472 page-home.php:474 page-home.php:478 page-home.php:849
 msgid "Graphic Design"
@@ -404,9 +404,8 @@ msgid ""
 "\"Release\" is a \"big\" word and that’s why it must be mafnificent. We "
 "cover all areas of the release and make sure you boom"
 msgstr ""
-"¨Lanzamiento¨ es una palabra ¨Mayor¨ y es por eso que debe de ser "
-"esplendoroso. Cubrimos todas las áreas de los lanzamientos, asegurándonos "
-"que sean exitosos"
+"¨Lanzamiento¨ es una palabra ¨Mayor¨ y es por eso que debe ser esplendoroso. "
+"Cubrimos todas las áreas de los lanzamientos, asegurándonos que sean exitosos"
 
 #: page-home.php:895
 msgid ""
