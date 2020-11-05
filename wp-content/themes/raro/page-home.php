@@ -723,7 +723,7 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8 col-xs-12">
-                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-production.jpg">
+                    <img alt="" class="img-responsive lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-production.jpg">
                 </div>
                 <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Music Production', 'raro') ?></h2>
@@ -738,7 +738,7 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8 col-xs-12">
-                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-distribution.jpg">
+                    <img alt="" class="img-responsive lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-distribution.jpg">
                 </div>
                 <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Music Distribution', 'raro') ?></h2>
@@ -753,7 +753,7 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8 col-xs-12">
-                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/talent-development.jpg">
+                    <img alt="" class="img-responsive lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/talent-development.jpg">
                 </div>
                 <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Talent Development', 'raro') ?></h2>
@@ -768,7 +768,7 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8 col-xs-12">
-                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-marketing.jpg">
+                    <img alt="" class="img-responsive lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/music-marketing.jpg">
                 </div>
                 <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Music Marketing', 'raro') ?></h2>
@@ -783,7 +783,7 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8 col-xs-12">
-                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/talent-management.jpg">
+                    <img alt="" class="img-responsive lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/talent-management.jpg">
                 </div>
                 <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Talent Management', 'raro') ?></h2>
@@ -798,7 +798,7 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8 col-xs-12">
-                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-development.jpg">   
+                    <img alt="" class="img-responsive lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-development.jpg">   
                 </div>
                 <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Business Development', 'raro') ?></h2>
@@ -813,7 +813,7 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8 col-xs-12">
-                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-restructure.jpg">
+                    <img alt="" class="img-responsive lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-restructure.jpg">
                 </div>
                 <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Business Restructure', 'raro') ?></h2>
@@ -828,7 +828,7 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8 col-xs-12">
-                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-marketing.jpg">
+                    <img alt="" class="img-responsive lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/business-marketing.jpg">
                 </div>
                 <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Business Marketing', 'raro') ?></h2>
@@ -843,7 +843,7 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8 col-xs-12">
-                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/graphic-design.jpg">
+                    <img alt="" class="img-responsive lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/graphic-design.jpg">
                 </div>
                 <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Graphic Design', 'raro') ?></h2>
@@ -858,7 +858,7 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8 col-xs-12">
-                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/content-distribution.jpg">
+                    <img alt="" class="img-responsive lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/content-distribution.jpg">
                 </div>
                 <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Content Distribution', 'raro') ?></h2>
@@ -873,7 +873,7 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8 col-xs-12">
-                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/release-strategy.jpg">
+                    <img alt="" class="img-responsive lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/release-strategy.jpg">
                 </div>
                 <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Release Strategy', 'raro') ?></h2>
@@ -888,7 +888,7 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8 col-xs-12">
-                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/paid-campaigns.jpg">
+                    <img alt="" class="img-responsive lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/paid-campaigns.jpg">
                 </div>
                 <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Paid Campaigns', 'raro') ?></h2>
@@ -903,7 +903,7 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8 col-xs-12">
-                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/branding.jpg">
+                    <img alt="" class="img-responsive lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/branding.jpg">
                 </div>
                 <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Branding', 'raro') ?></h2>
@@ -918,7 +918,7 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8 col-xs-12">
-                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/social-media-management.jpg">
+                    <img alt="" class="img-responsive lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/social-media-management.jpg">
                 </div>
                 <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Social Media Management', 'raro') ?></h2>
@@ -933,7 +933,7 @@
         <article class="blog service-modal">
             <div class="row">
                 <div class="blog-thumbnail col-md-8 col-xs-12">
-                    <img alt="" class="img-responsive" src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/audiovisuals.jpg">
+                    <img alt="" class="img-responsive lazyload" data-src="<?php echo get_template_directory_uri(); ?>/assets/img/services/inside/audiovisuals.jpg">
                 </div>
                 <div class="blog-info col-md-4 col-xs-12">
                     <h2 class="blog-title"><?php _e('Audiovisuals', 'raro') ?></h2>

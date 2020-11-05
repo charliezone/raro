@@ -35,6 +35,7 @@ function raro_styles_scripts() {
     wp_enqueue_script( 'script-rev-slider-extension-parallax', get_template_directory_uri() . '/assets/js/rev-slider/revolution.extension.parallax.min.js', array('script-rev-slider-extension-navigation'), '', true );
     wp_enqueue_script( 'script-rev-slider-extension-slideanims', get_template_directory_uri() . '/assets/js/rev-slider/revolution.extension.slideanims.min.js', array('script-rev-slider-extension-parallax'), '', true );
     wp_enqueue_script( 'script-rev-slider-extension-video', get_template_directory_uri() . '/assets/js/rev-slider/revolution.extension.video.min.js', array('script-rev-slider-extension-slideanims'), '', true );
+    wp_enqueue_script( 'script-lazysizes', get_template_directory_uri() . '/assets/js/lazysizes.min.js', array('script-rev-slider-extension-slideanims'), '', true );
     wp_register_script( 'script-interface', get_template_directory_uri() . '/assets/js/interface.js', array('script-rev-slider-extension-video'), '', true );
     $site_info = array('languaje' => pll_current_language());
     wp_localize_script( 'script-interface', 'site_info', $site_info );
